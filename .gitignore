@@ -1,0 +1,22 @@
+.DS_Store
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials*
+secrets*
+
+# Live API output and fleet-data exports
+*.response.json
+*.export.json
+*.export.csv
+data/
+exports/
+
+# Runtime output
+*.log
+node_modules/
