@@ -20,3 +20,7 @@ exports/
 # Runtime output
 *.log
 node_modules/
+
+# Local-only working references (kept here, not pushed)
+local-reference/
+docs/vehicle-record-field-inventory.md
