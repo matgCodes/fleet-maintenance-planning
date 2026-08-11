@@ -1,0 +1,1577 @@
+[
+  {
+    "taskId": "veh_001",
+    "vehicle": {
+      "year": "2024",
+      "make": "DODGE",
+      "model": "DURANGO"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_002",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_003",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_004",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_005",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_006",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_007",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_008",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_009",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_010",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_011",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_012",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_013",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "F-150 SUPERCAB"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_014",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_015",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_016",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_017",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_018",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_019",
+    "vehicle": {
+      "year": "2001",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_020",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_021",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_022",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_023",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_024",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "LIGHTNING ELEC"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_025",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVY",
+      "model": "SILVERADO"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_026",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_027",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_028",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_029",
+    "vehicle": {
+      "year": "2020",
+      "make": "CHEVY",
+      "model": "2500 HD"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_030",
+    "vehicle": {
+      "year": "2024",
+      "make": "BMW",
+      "model": "R 1250 RT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_031",
+    "vehicle": {
+      "year": "2013",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_032",
+    "vehicle": {
+      "year": "2013",
+      "make": "SUPERIOR",
+      "model": "GAS TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_033",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "ESCAPE HYBRID"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_034",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "LIGHTNING"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_035",
+    "vehicle": {
+      "year": "2013",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_036",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "MAVERICK"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_037",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_038",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "MUSTANG MACH E"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_039",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "CROWN VIC"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_040",
+    "vehicle": {
+      "year": "2016",
+      "make": "CHEVY",
+      "model": "2500 HD"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_041",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_042",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_043",
+    "vehicle": {
+      "year": "2019",
+      "make": "BMW",
+      "model": "R1250RT-P"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_044",
+    "vehicle": {
+      "year": "2024",
+      "make": "BMW",
+      "model": "R125RT-P"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_045",
+    "vehicle": {
+      "year": "2018",
+      "make": "SAM",
+      "model": "TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_046",
+    "vehicle": {
+      "year": "2023",
+      "make": "TESLA",
+      "model": "MODEL Y"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_047",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_048",
+    "vehicle": {
+      "year": "2025",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_049",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_050",
+    "vehicle": {
+      "year": "2009",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_051",
+    "vehicle": {
+      "year": "2024",
+      "make": "INTERNATIONAL",
+      "model": "HV 507"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_052",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_053",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_054",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_055",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-350 4X4"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_056",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_057",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-450"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_058",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVROLET",
+      "model": "SILVERADO"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_059",
+    "vehicle": {
+      "year": "2015",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_060",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "POLICE UTILITY"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_061",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-250 SUPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_062",
+    "vehicle": {
+      "year": "2018",
+      "make": "YAMAHA",
+      "model": "MOTORCYCLE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_063",
+    "vehicle": {
+      "year": "2017",
+      "make": "LENCO",
+      "model": "BEARCAT ARMORED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_064",
+    "vehicle": {
+      "year": "2006",
+      "make": "LENCO",
+      "model": "BEARCAT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_065",
+    "vehicle": {
+      "year": "2004",
+      "make": "FORD",
+      "model": "E-450"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_066",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X4 SD"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_067",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_068",
+    "vehicle": {
+      "year": "2019",
+      "make": "JEEP",
+      "model": "WRANGLER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_069",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_070",
+    "vehicle": {
+      "year": "2006",
+      "make": "GMC",
+      "model": "SIERRA"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_071",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_072",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "F-350 4X2"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_073",
+    "vehicle": {
+      "year": "2007",
+      "make": "FORD",
+      "model": "E-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_074",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_075",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "EDGE SE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_076",
+    "vehicle": {
+      "year": "2007",
+      "make": "AZTEX",
+      "model": "TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_077",
+    "vehicle": {
+      "year": "2011",
+      "make": "FORD",
+      "model": "CROWN VIC"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_078",
+    "vehicle": {
+      "year": "1997",
+      "make": "WELLS CARGO",
+      "model": "TRAILER 6X12'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_079",
+    "vehicle": {
+      "year": "2018",
+      "make": "PACE",
+      "model": "OUTBACK"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_080",
+    "vehicle": {
+      "year": "1996",
+      "make": "WELLS CARGO",
+      "model": "TRAILER 14'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_081",
+    "vehicle": {
+      "year": "1969",
+      "make": "MOHAWK",
+      "model": "TRAILER 14'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_082",
+    "vehicle": {
+      "year": "1991",
+      "make": "FETHERLITE",
+      "model": "HORSE TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_083",
+    "vehicle": {
+      "year": "2023",
+      "make": "UD",
+      "model": "24' DUI TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_084",
+    "vehicle": {
+      "year": "2012",
+      "make": "BIG TEX",
+      "model": "15XT-06"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_085",
+    "vehicle": {
+      "year": "1997",
+      "make": "MIGHTY MOVER",
+      "model": "DUI TRAILER 12'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_086",
+    "vehicle": {
+      "year": "2023",
+      "make": "CUSTOM",
+      "model": "DUI TRAILER 28'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_087",
+    "vehicle": {
+      "year": "2020",
+      "make": "LOOK",
+      "model": "STLC 7X14"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_088",
+    "vehicle": {
+      "year": "2010",
+      "make": "MIGHTY MOVER",
+      "model": "DUI TRAILER 24'"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_089",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "POLICE UTILITY"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_090",
+    "vehicle": {
+      "year": "2005",
+      "make": "UD",
+      "model": "TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_091",
+    "vehicle": {
+      "year": "2003",
+      "make": "LIDO",
+      "model": "WEST POLICE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_092",
+    "vehicle": {
+      "year": "2018",
+      "make": "YAMAHA",
+      "model": "UD"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_093",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_094",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPEDITION MX"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_095",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_096",
+    "vehicle": {
+      "year": "2007",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_097",
+    "vehicle": {
+      "year": "2003",
+      "make": "OSHKOSH",
+      "model": "STRIKER 3000"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_098",
+    "vehicle": {
+      "year": "2021",
+      "make": "OSHKOSH",
+      "model": "STRIKER ARFF TRUCK"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_099",
+    "vehicle": {
+      "year": "2003",
+      "make": "OSHKOSH",
+      "model": "STRIKER 1500"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_100",
+    "vehicle": {
+      "year": "2021",
+      "make": "OSHKOSH",
+      "model": "STRIKER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_101",
+    "vehicle": {
+      "year": "2015",
+      "make": "CHEVROLET",
+      "model": "SUBURBAN"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_102",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_103",
+    "vehicle": {
+      "year": "2004",
+      "make": "FREIGHTLINER",
+      "model": "MB-55"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_104",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_105",
+    "vehicle": {
+      "year": "2005",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_106",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_107",
+    "vehicle": {
+      "year": "2021",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_108",
+    "vehicle": {
+      "year": "2014",
+      "make": "INTERNATIONAL",
+      "model": "4400"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_109",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_110",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-250 SUPER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_111",
+    "vehicle": {
+      "year": "2011",
+      "make": "INTERNATIONAL",
+      "model": "MA035"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_112",
+    "vehicle": {
+      "year": "1996",
+      "make": "INTERNATIONAL",
+      "model": "4900 4X2"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_113",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_114",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_115",
+    "vehicle": {
+      "year": "2007",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_116",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "AERIAL"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_117",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_118",
+    "vehicle": {
+      "year": "2024",
+      "make": "OSHKOSH",
+      "model": "STRIKER 6X6"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_119",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150 XL"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_120",
+    "vehicle": {
+      "year": "2013",
+      "make": "JOHN DEERE",
+      "model": "825E GAS XUV"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_121",
+    "vehicle": {
+      "year": "2015",
+      "make": "UD",
+      "model": "MESSAGE BRD"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_122",
+    "vehicle": {
+      "year": "2016",
+      "make": "KAWASAKI",
+      "model": "MULE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_123",
+    "vehicle": {
+      "year": "2015",
+      "make": "ISUZU",
+      "model": "NITEHAWK"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_124",
+    "vehicle": {
+      "year": "2023",
+      "make": "FREIGHTLINER",
+      "model": "TYMCO"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_125",
+    "vehicle": {
+      "year": "2010",
+      "make": "SEALMASTER",
+      "model": "TR1000"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_126",
+    "vehicle": {
+      "year": "2025",
+      "make": "TRIME",
+      "model": "TRIME US, INC."
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_127",
+    "vehicle": {
+      "year": "2016",
+      "make": "MULTIQUIP",
+      "model": "LITE TRAILER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_128",
+    "vehicle": {
+      "year": "2023",
+      "make": "JCB",
+      "model": "FORKLIFT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_129",
+    "vehicle": {
+      "year": "1999",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_130",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "TRANSIT CONNECT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_131",
+    "vehicle": {
+      "year": "2013",
+      "make": "MITSUBISHI",
+      "model": "FORKLIFT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_132",
+    "vehicle": {
+      "year": "2024",
+      "make": "JEEP",
+      "model": "GRAND CHEROKEE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_133",
+    "vehicle": {
+      "year": "2025",
+      "make": "ISUZU",
+      "model": "NRR"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_134",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_135",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_136",
+    "vehicle": {
+      "year": "2015",
+      "make": "MACK",
+      "model": "GAPVAX"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_137",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "RANGER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_138",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_139",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_140",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-SERIES WORK TRUCK"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_141",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_142",
+    "vehicle": {
+      "year": "1990",
+      "make": "GMC",
+      "model": "TRK 30000"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_143",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-150 SUPERCAB"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_144",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-450 LIFT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_145",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "VAN 15 PASS"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_146",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "E-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_147",
+    "vehicle": {
+      "year": "2024",
+      "make": "JOHN DEERE",
+      "model": "GATOR HPX"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_148",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_149",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_150",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "F-450"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_151",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_152",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-750"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_153",
+    "vehicle": {
+      "year": "2005",
+      "make": "FORD",
+      "model": "450 FLAT BED"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_154",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_155",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_156",
+    "vehicle": {
+      "year": "2010",
+      "make": "KENWORTH",
+      "model": "T-800"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_157",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-650"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_158",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-600 ASPHALT P"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_159",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_160",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "F-350 DUMP"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_161",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_162",
+    "vehicle": {
+      "year": "2016",
+      "make": "FORD",
+      "model": "F-550 BUCKET"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_163",
+    "vehicle": {
+      "year": "2021",
+      "make": "CHEVY",
+      "model": "SILVERADO"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_164",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "E-250"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_165",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X4"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_166",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X2"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_167",
+    "vehicle": {
+      "year": "2003",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_168",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "FREESTAR"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_169",
+    "vehicle": {
+      "year": "2024",
+      "make": "HYDRO TEK",
+      "model": "3900 SPRAYER"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_170",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "F-150 SUPERCREW"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_171",
+    "vehicle": {
+      "year": "2023",
+      "make": "BIG TEX",
+      "model": "30SV10"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_172",
+    "vehicle": {
+      "year": "2018",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_173",
+    "vehicle": {
+      "year": "2012",
+      "make": "NISSAN",
+      "model": "LEAF"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_174",
+    "vehicle": {
+      "year": "2012",
+      "make": "CHEVROLET",
+      "model": "TAHOE"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  },
+  {
+    "taskId": "veh_175",
+    "vehicle": {
+      "year": "2002",
+      "make": "TOYOTA",
+      "model": "PRIUS"
+    },
+    "instructions": "Find the standard OEM factory tire size for the base/fleet model of this vehicle. Return the data adhering strictly to the response schema."
+  }
+]

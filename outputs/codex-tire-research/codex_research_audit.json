@@ -1,0 +1,3677 @@
+[
+  {
+    "taskId": "veh_001",
+    "vehicle": {
+      "year": "2024",
+      "make": "DODGE",
+      "model": "DURANGO"
+    },
+    "matchedAssetCount": 29,
+    "tireData": {
+      "frontTireSize": "265/60R18",
+      "isStaggered": false,
+      "rearTireSize": "265/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Pursuit (PPV) and Special Service Vehicle (SSV) fleet trims use a slightly narrower 255/60R18 tire size with higher load/speed ratings (e.g., 108V) compared to the standard 265/60R18 found on the civilian base SXT trim.",
+      "reliabilityRationale": "Wheel-size.com and manufacturer specifications provide consistent data for standard OEM fitments. The base civilian trim (SXT) is well-documented, as is the distinct police package.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_002",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 22,
+    "tireData": {
+      "frontTireSize": "255/65R18",
+      "isStaggered": false,
+      "rearTireSize": "255/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2021 Ford Police Interceptor Utility (the fleet-specific law enforcement version of the Explorer) uses a slightly different size: 255/60R18 on heavy-duty steel wheels. Higher consumer trims (Limited, ST, Platinum) use 20-inch or 21-inch wheels.",
+      "reliabilityRationale": "Information confirmed consistently across multiple reputable automotive and tire sizing databases (wheel-size.com, tiresize.com).",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/explorer/2021/"
+    }
+  },
+  {
+    "taskId": "veh_003",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 21,
+    "tireData": {
+      "frontTireSize": "255/65R18",
+      "isStaggered": false,
+      "rearTireSize": "255/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility (a common fleet variant) uses a slightly different tire size: 255/60R18 instead of the standard base 255/65R18.",
+      "reliabilityRationale": "The information is corroborated across multiple specialized tire sizing websites (tiresize.com, discounttire.com).",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_004",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 19,
+    "tireData": {
+      "frontTireSize": "245/60R18",
+      "isStaggered": false,
+      "rearTireSize": "245/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility (fleet law enforcement version) typically uses a 245/55R18 (and sometimes 225/65R17) tire size, which is slightly different from the civilian base model's 245/60R18.",
+      "reliabilityRationale": "Wheel-size.com and other tire retailers (Michelin, Mavis) are highly reliable sources for standard OEM factory specifications and uniformly confirm this tire size.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/"
+    }
+  },
+  {
+    "taskId": "veh_005",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "matchedAssetCount": 14,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard base trim (XL STX) uses 275/65R18 tires, but fleet edge cases like the Special Service Vehicle (SSV) / Police Interceptor trim typically come with 265/70R17 tires on 17-inch steel wheels.",
+      "reliabilityRationale": "Specifications for the base model are confirmed by Edmunds, a highly reliable automotive source. The fleet-specific SSV trim specifications are supported by government vehicle specification documents.",
+      "reliabilityScore": 5,
+      "sourceName": "Edmunds",
+      "sourceUrl": "https://www.edmunds.com/ford/expedition/2024/features-specs/"
+    }
+  },
+  {
+    "taskId": "veh_006",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 11,
+    "tireData": {
+      "frontTireSize": "245/60R18",
+      "isStaggered": false,
+      "rearTireSize": "245/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility trim uses a slightly different tire size: 245/55R18, typically with pursuit-rated tires like the Goodyear Eagle RS-A Police.",
+      "reliabilityRationale": "Consistent tire fitment data across multiple major tire retailers and fitment guides (SimpleTire, Firestone Complete Auto Care) confirm the base size and the Police Interceptor edge case.",
+      "reliabilityScore": 5,
+      "sourceName": "SimpleTire & Firestone Complete Auto Care",
+      "sourceUrl": "https://simpletire.com/vehicles/ford-tires/explorer/2017"
+    }
+  },
+  {
+    "taskId": "veh_007",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 11,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 4WD XL trim typically comes with 265/70R17 tires. The Heavy-Duty payload package uses 265/70R18, and the Police Responder fleet model comes standard with LT265/70R18 all-terrain tires on 18-inch steel wheels.",
+      "reliabilityRationale": "Multiple reputable tire size databases and dealer sources consistently report 245/70R17 as the base tire size for the 2WD XL trim.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com",
+      "sourceUrl": "https://tiresize.com/"
+    }
+  },
+  {
+    "taskId": "veh_008",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 10,
+    "tireData": {
+      "frontTireSize": "255/65R18",
+      "isStaggered": false,
+      "rearTireSize": "255/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2026 Ford Police Interceptor Utility (the primary heavy-duty/fleet version) uses 255/60R18 tires instead of the standard civilian 255/65R18.",
+      "reliabilityRationale": "The sizes are confirmed across multiple tire fitment databases (Mavis, Goodyear) and government fleet specification documents (WA.gov) for the 2026 model year.",
+      "reliabilityScore": 5,
+      "sourceName": "Mavis / WA.gov Fleet Specs",
+      "sourceUrl": "https://www.mavis.com"
+    }
+  },
+  {
+    "taskId": "veh_009",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 10,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "4x4 XL models typically use 265/70R17. Models with Heavy Duty Payload Package or optional larger wheels can use 275/65R18 or 275/55R20. Police Responder trims often run unique speed-rated tires in different sizes.",
+      "reliabilityRationale": "Information cross-referenced from multiple tire specification databases including wheel-size.com, confirming the base 4x2 XL trim uses 245/70R17.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2018/"
+    }
+  },
+  {
+    "taskId": "veh_010",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 10,
+    "tireData": {
+      "frontTireSize": "265/70R17",
+      "isStaggered": false,
+      "rearTireSize": "265/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Responder trims use LT265/70R18 (All-Terrain) on 18-inch wheels. Heavy Duty Payload packages may use varying LT-metric tires depending on cab/bed configuration.",
+      "reliabilityRationale": "Information comes from reputable tire and wheel fitment resources (wheel-size.com, Edmunds, Tasca), and is consistent with the standard wheel size for base F-150s (XL trim) as well as the police responder specs.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_011",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 8,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base 4x2 XL uses 245/70R17, while the 4x4 XL uses 265/70R17. The Police Responder fleet model comes with upgraded LT265/70R18 all-terrain tires. Note that the standalone Heavy Duty Payload Package (HDPP) was discontinued for the 2024 model year.",
+      "reliabilityRationale": "Information aligns across multiple reputable tire and automotive specifications sources, including specialized police vehicle documentation for fleet edge cases. tiresize.com is a standard trusted source for OEM sizes.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/"
+    }
+  },
+  {
+    "taskId": "veh_012",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 7,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Responder models use LT265/70R18 pursuit-rated tires (Goodyear Wrangler Enforcer). Other fleet variations or packages (e.g., FX4, Heavy-Duty Payload) may bump base XL to 265/70R17 or 265/60R18 sizes.",
+      "reliabilityRationale": "Information triangulated across multiple automotive data sources including tiresize.com, wheel-size.com, and fleet spec reviews (CNET). High confidence in 245/70R17 as the absolute base equipment for XL trim, with square setup being standard across all standard F-150s.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com / wheel-size.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/F150/2021/XL/"
+    }
+  },
+  {
+    "taskId": "veh_013",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "F-150 SUPERCAB"
+    },
+    "matchedAssetCount": 7,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Base 2WD models use 245/70R17, while base 4WD models typically use 265/70R17. The Police Responder fleet variant uses LT265/70R18 tires.",
+      "reliabilityRationale": "Information is consistently reported across major automotive databases such as wheel-size.com, tiresize.com, and Ford fleet specs. Trucks uniformly use square tire setups.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2023/"
+    }
+  },
+  {
+    "taskId": "veh_014",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "matchedAssetCount": 6,
+    "tireData": {
+      "frontTireSize": "225/65R17",
+      "isStaggered": false,
+      "rearTireSize": "225/65R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "There is no specialized \"fleet\" tire size unique to these vehicles. The base S trim uses the standard 225/65R17. Higher trims or PHEV variants use larger tires (e.g. 225/60R18 or 225/55R19) but base trims ordered for fleets conform to the standard 225/65R17. There is no Police Interceptor variant for the Escape (that is the Explorer).",
+      "reliabilityRationale": "Verified across multiple major tire retailers and vehicle sizing databases (tiresize.com, discounttire.com, mavis.com) which all agree that the base S trim uses a standard 225/65R17 square setup.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Escape/2021/S/"
+    }
+  },
+  {
+    "taskId": "veh_015",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 5,
+    "tireData": {
+      "frontTireSize": "255/65R18",
+      "isStaggered": false,
+      "rearTireSize": "255/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility trim uses a slightly different size: 255/60R18 on heavy-duty steel wheels.",
+      "reliabilityRationale": "Tiresize.com, wheel-size.com, and discounttire.com all consistently list 255/65R18 as the standard tire size for the 2020 Ford Explorer Base trim. The Police Interceptor edge case is also well documented by government and automotive sources.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Explorer/2020/Base/"
+    }
+  },
+  {
+    "taskId": "veh_016",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 5,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Base XL 4x2 models come with 245/70R17 tires, while the XL 4x4 models are equipped with 265/70R17. Models with the Heavy-Duty Payload Package use Light Truck (LT) rated LT245/70R17/E tires. High-performance trims like the Raptor use significantly larger LT315/70R17 tires. All factory configurations use a square setup.",
+      "reliabilityRationale": "High confidence. Information was cross-referenced from multiple sources including reputable automotive specification databases like wheel-size.com. The distinction between 4x2, 4x4, and Heavy-Duty Payload package base trims is well-documented.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2020/"
+    }
+  },
+  {
+    "taskId": "veh_017",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "255/65R18",
+      "isStaggered": false,
+      "rearTireSize": "255/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2025 Ford Police Interceptor Utility, which is the heavy-duty fleet version of the Explorer, uses a different standard tire size of 255/60R18.",
+      "reliabilityRationale": "The provided tire sizes are verified against Edmunds' feature specifications for the 2025 Ford Explorer base (Active) trim and tire retailer data (Mavis/Big O Tires) for the Police Interceptor edge case. Both are highly reliable industry sources.",
+      "reliabilityScore": 5,
+      "sourceName": "Edmunds",
+      "sourceUrl": "https://www.edmunds.com/ford/explorer/2025/features-specs/"
+    }
+  },
+  {
+    "taskId": "veh_018",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "215/60R16",
+      "isStaggered": false,
+      "rearTireSize": "215/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "There was no Ford Police Interceptor model for the 2014 Fusion (those were based on the Taurus and Explorer). Base/fleet models (S trim) generally use 215/60R16, while higher trims (SE, Titanium) upgrade to 17\", 18\", or 19\" wheels.",
+      "reliabilityRationale": "Multiple reliable wheel/tire fitment databases (including wheel-size.com and tiresize.com) confirm that the 2014 Ford Fusion S trim comes standard with 215/60R16 tires on a square setup.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/fusion/2014/"
+    }
+  },
+  {
+    "taskId": "veh_019",
+    "vehicle": {
+      "year": "2001",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Requires commercial Load Range F or G tires to safely handle the Gross Vehicle Weight Rating (GVWR) and towing capacity. Also uses 19.5-inch wheels instead of the 16-inch wheels found on standard F-250/F-350 models. Variations can exist based on specific fleet configurations or aftermarket setups.",
+      "reliabilityRationale": "TireSize.com and standard commercial truck documentation consistently confirm 225/70R19.5 as the standard OEM size for 2001 Ford F-550 Super Duty models.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_020",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base XL (fleet) trim uses the LT245/75R17 size on 17-inch rims. Higher trims (XLT, Lariat, King Ranch, Platinum, Limited) or models with specialized towing/off-road packages (like the Tremor package) frequently use larger wheels, upgrading to 18-inch (e.g., 275/65R18 or 275/70R18) or 20-inch (e.g., 275/65R20) tires. Note that Dual Rear Wheel (DRW) configurations are typically F-350 and up, so F-250s are standard Single Rear Wheel (SRW).",
+      "reliabilityRationale": "The data was verified using Wheel-Size.com's fitment database for the 2022 Ford F-250, specifically under the base 6.2L engine configuration which corresponds to the base XL trim. The size LT245/75R17 is clearly marked as Original Equipment (OE). Secondary sources (tiresize.com, Goodyear) also confirm this as the base 17-inch tire option.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-250/2022/"
+    }
+  },
+  {
+    "taskId": "veh_021",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims, appearance packages like the STX, and options like the Tremor Off-Road package use larger wheels (e.g., LT275/70R18 or LT285/75R18). The F-250 is single rear wheel only, meaning all standard configurations are square setups.",
+      "reliabilityRationale": "Multiple tire sizing databases confirm that the 2026 model carries over the same wheel setups as the previous generation, where the absolute base 17-inch steel wheel on the XL fleet trim comes with LT245/75R17 tires.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/"
+    }
+  },
+  {
+    "taskId": "veh_022",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "LT265/70R17",
+      "isStaggered": false,
+      "rearTireSize": "LT265/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base XL trim with Single Rear Wheel (SRW) configuration typically comes with LT265/70R17 tires. Dual Rear Wheel (DRW/dually) models use LT245/75R17 tires. In all cases, the tire sizes are square (the same size is used on both the front and rear axles, though dually rims have different offsets).",
+      "reliabilityRationale": "Cross-referenced multiple automotive databases including wheel-size.com and tire guide references for the 2015 Ford Super Duty order guide. Heavy duty trucks like the F-350 exclusively use square tire sizes across all axles to allow for tire rotation and load management.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-350/2015/"
+    }
+  },
+  {
+    "taskId": "veh_023",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Optional packages like FX4, Camper, or heavy-duty towing packages could upgrade the wheels to 18-inch (e.g., LT275/65R18) or 20-inch sizes. However, standard fleet configurations for the XL trim are almost universally equipped with the base 17-inch steel wheels and LT245/75R17 tires.",
+      "reliabilityRationale": "Wheel-size.com and other major tire retailers consistently report LT245/75R17 as the standard base equipment for the 2019 Ford F-250 XL. High confidence in this size for the fleet spec.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-250/2019/"
+    }
+  },
+  {
+    "taskId": "veh_024",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "LIGHTNING ELEC"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Pro trim (base/fleet) uses 18-inch wheels with 275/65R18 tires. Higher consumer trims such as Flash, Lariat, and Platinum are equipped with larger 20-inch (275/60R20) or 22-inch (275/50R22) wheels.",
+      "reliabilityRationale": "Multiple specialized tire fitment sites confirm 275/65R18 as the standard tire size for the F-150 Lightning Pro trim for 2025, which carries over from previous model years.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_025",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVY",
+      "model": "SILVERADO"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "255/70R17",
+      "isStaggered": false,
+      "rearTireSize": "255/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard WT (Work Truck) base trim comes with 255/70R17, but fleet vehicles ordered with the Max Trailering Package, Z71 off-road suspension, or heavy-duty payload upgrades are typically equipped with larger, heavier-rated LT265/70R17 tires. Additionally, heavier 2500HD/3500HD models use completely different 8-lug wheels and LT-rated tires (often LT245/75R17 or LT265/70R18).",
+      "reliabilityRationale": "Multiple reputable tire and wheel fitment databases (including Wheel-Size.com and bigotires.com) confirm that the P255/70R17 is the standard factory OEM tire for the base 2017 Chevrolet Silverado 1500 Work Truck (WT). As with almost all standard pickup trucks, the setup is square (same size front and rear).",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/chevrolet/silverado-1500/2017/"
+    }
+  },
+  {
+    "taskId": "veh_026",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "matchedAssetCount": 4,
+    "tireData": {
+      "frontTireSize": "235/65R16C",
+      "isStaggered": false,
+      "rearTireSize": "235/65R16C"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Standard Transit cargo and passenger vans use a square setup with 235/65R16C tires. Heavy-duty models (such as the Transit-350 HD) with Dual Rear Wheels (DRW) use different sizes, typically 195/75R16C or 205/75R16C, but these remain the same size on both front and rear axles.",
+      "reliabilityRationale": "Wheel-size.com and other major tire retailers like Discount Tire and Goodyear consistently report these sizes. The 'C' suffix indicates commercial or cargo designation which is standard for full-size vans.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_027",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "P245/60R18",
+      "isStaggered": false,
+      "rearTireSize": "P245/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims like the Limited and Sport utilize larger P255/50R20 tires. The Police Interceptor Utility fleet version retains the P245/60R18 size, though they are specifically pursuit-rated tires.",
+      "reliabilityRationale": "Information was verified across multiple major tire retailers (Mavis, SimpleTire, Discount Tire) and automotive platforms (Cars.com) which all agree on the base P245/60R18 fitment for the 2015 Explorer and Police Interceptor Utility.",
+      "reliabilityScore": 5,
+      "sourceName": "mavis.com",
+      "sourceUrl": "https://www.mavis.com/"
+    }
+  },
+  {
+    "taskId": "veh_028",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "245/65R17",
+      "isStaggered": false,
+      "rearTireSize": "245/65R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility fleet trim uses a specific tire size: 245/55R18. Higher civilian trims like XLT, Limited, and Sport use larger wheels, typically 245/60R18 or 255/50R20.",
+      "reliabilityRationale": "Multiple highly reputable tire retailer and specification databases (tiresize.com, discounttire.com, wheel-size.com) consistently report 245/65R17 as the original equipment base size. The Explorer is a standard SUV with a square tire setup.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Explorer/2014/"
+    }
+  },
+  {
+    "taskId": "veh_029",
+    "vehicle": {
+      "year": "2020",
+      "make": "CHEVY",
+      "model": "2500 HD"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base WT (Work Truck) trim comes standard with 17-inch steel wheels and LT245/75R17E tires. Optional packages or higher trims (LT, Custom, LTZ, High Country) may be equipped with larger 18-inch or 20-inch wheels (e.g., LT275/70R18 or LT275/65R20). Heavy-duty trucks like the 2500 HD use a square setup for tire rotation and load-bearing purposes.",
+      "reliabilityRationale": "The tire specifications were verified against wheel-size.com's comprehensive database for the 2020 Chevrolet Silverado 2500 HD, confirming the OEM base tire size for the 17-inch rim configuration common to the WT (Work Truck) fleet trim.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/chevrolet/silverado-2500-hd/2020/"
+    }
+  },
+  {
+    "taskId": "veh_030",
+    "vehicle": {
+      "year": "2024",
+      "make": "BMW",
+      "model": "R 1250 RT"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "120/70 ZR 17",
+      "isStaggered": true,
+      "rearTireSize": "180/55 ZR 17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The R 1250 RT-P is the Police Interceptor variant of this motorcycle. While it generally uses the same tire dimensions, it may require police-specific, heavier-duty tire load/speed specifications due to the added weight of law enforcement equipment.",
+      "reliabilityRationale": "Information is consistently corroborated across multiple reliable motorcycle databases and tire manufacturer sites like Michelin.",
+      "reliabilityScore": 5,
+      "sourceName": "michelin.com.au / 1000ps.com",
+      "sourceUrl": "https://www.michelin.com.au/motorcycle/browse-tyres/by-vehicle/bmw/r-1250-rt/1250/2024"
+    }
+  },
+  {
+    "taskId": "veh_031",
+    "vehicle": {
+      "year": "2013",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "215/60R16",
+      "isStaggered": false,
+      "rearTireSize": "215/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "There is no 'Police Interceptor' trim for the 2013 Ford Fusion; in 2013, Police Interceptor sedans were based on the Ford Taurus, while utility versions were based on the Explorer. The 2013 Ford Fusion base (S trim) consistently uses 215/60R16 tires in a square setup.",
+      "reliabilityRationale": "Multiple top-tier tire retailers and fitment databases (TireSize, Goodyear, Mavis) consistently report the standard OEM tire size for the base 2013 Ford Fusion S trim as 215/60R16.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_032",
+    "vehicle": {
+      "year": "2013",
+      "make": "SUPERIOR",
+      "model": "GAS TRAILER"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "Varies by GVWR",
+      "isStaggered": false,
+      "rearTireSize": "Varies by GVWR"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Superior gas trailers are commercial industrial pressurized transport trailers (e.g., MC331/TC331). They do not have a single standard 'base' trim tire size. The tire size is determined by the specific axle configuration, Gross Vehicle Weight Rating (GVWR), and engineered load requirements of each individual unit.",
+      "reliabilityRationale": "The manufacturer (Superior Pressure Vessels Inc.) builds custom pressurized transport tanks and trailers. Because these are heavy-duty commercial equipment, there is no one-size-fits-all factory standard tire; the tire size must be read from the trailer's data plate or existing tire sidewalls. Common commercial sizes like 11R22.5 might be used, but this is highly variable.",
+      "reliabilityScore": 1,
+      "sourceName": "Superior Pressure Vessels Inc.",
+      "sourceUrl": "https://superiorpressurevessels.com/"
+    }
+  },
+  {
+    "taskId": "veh_033",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "ESCAPE HYBRID"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "225/65R17",
+      "isStaggered": false,
+      "rearTireSize": "225/65R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims like SEL and PHEV models use 225/60R18, while the Titanium trim uses 225/55R19.",
+      "reliabilityRationale": "Multiple reliable automotive tire fitment sources (wheel-size.com, tiresize.com, discounttire.com) independently verify this size for the base SE Hybrid trim.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/escape/2021/"
+    }
+  },
+  {
+    "taskId": "veh_034",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "LIGHTNING"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Special Service Vehicle (SSV) trim for law enforcement uses the same 275/65R18 size, though typically specifically mounted with all-terrain (A/T) tires for added durability. Higher retail trims like Lariat and Platinum use 20-inch or 22-inch wheels, but the base/fleet Pro trim strictly uses the 18-inch wheels with 275/65R18 tires.",
+      "reliabilityRationale": "Standard wheel/tire size for the F-150 Lightning Pro (fleet model) since its launch and carried over for 2025. This size is confirmed across multiple commercial/tire sites (tiresize.com, mavis.com) as well as Ford dealer and spec sites for both the standard Pro and the SSV.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com & FordPro.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/F150-Lightning/2024/Pro/"
+    }
+  },
+  {
+    "taskId": "veh_035",
+    "vehicle": {
+      "year": "2013",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "235/55R17",
+      "isStaggered": false,
+      "rearTireSize": "235/55R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2013 Escape was a standard compact SUV without a specialized heavy-duty or Police Interceptor variant (Ford used the Explorer and Taurus for those roles). Fleet and rental base models (S trim) uniformly utilize the standard 235/55R17 size without variations.",
+      "reliabilityRationale": "High confidence. The 2013 Ford Escape is a high-volume production vehicle and multiple reputable tire sizing databases (such as tiresize.com and discounttire.com) agree that the base S trim uses a standard square setup of 235/55R17 tires.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Escape/2013/S/"
+    }
+  },
+  {
+    "taskId": "veh_036",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "MAVERICK"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "225/65R17",
+      "isStaggered": false,
+      "rearTireSize": "225/65R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Tremor trim uses larger 235/65R17 tires, and the Lariat trim comes equipped with 225/55R19 tires.",
+      "reliabilityRationale": "Multiple tire retailer and spec websites confirm the standard size for the base XL trim.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com and Mavis",
+      "sourceUrl": "https://tiresize.com/"
+    }
+  },
+  {
+    "taskId": "veh_037",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "225/60R18",
+      "isStaggered": false,
+      "rearTireSize": "225/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "No factory-produced Police Interceptor trim exists. Police upfits are based on consumer trims (like Select or Premium) and use standard OEM sizes. XL load rating is critical due to heavy EV battery weight.",
+      "reliabilityRationale": "Information confirmed across multiple reputable automotive sites including tiresize.com, and owner forums (macheforum.com). The tire sizing and non-staggered setup are standard across the base 'Select' trim.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Mustang-Mach-E/2023/Select/"
+    }
+  },
+  {
+    "taskId": "veh_038",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "MUSTANG MACH E"
+    },
+    "matchedAssetCount": 3,
+    "tireData": {
+      "frontTireSize": "225/60R18",
+      "isStaggered": false,
+      "rearTireSize": "225/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Premium trim uses 225/55R19, and the GT / GT Performance Edition use 245/45R20.",
+      "reliabilityRationale": "Multiple reliable sources including tiresize.com and Ford dealer information confirm the exact OEM tire size for the base 'Select' trim of the 2023 Mustang Mach-E.",
+      "reliabilityScore": 5,
+      "sourceName": "Tiresize.com",
+      "sourceUrl": "https://tiresize.com/"
+    }
+  },
+  {
+    "taskId": "veh_039",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "CROWN VIC"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "225/60R16",
+      "isStaggered": false,
+      "rearTireSize": "225/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor (CVPI) and LX Sport models use a different size: 235/55R17.",
+      "reliabilityRationale": "Cross-referenced tiresize.com and standard OEM specifications which clearly distinguish between the 16-inch base trim tires and the 17-inch Police Interceptor models.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Crown-Victoria/2008/"
+    }
+  },
+  {
+    "taskId": "veh_040",
+    "vehicle": {
+      "year": "2016",
+      "make": "CHEVY",
+      "model": "2500 HD"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Work Truck (WT) base/fleet trim primarily uses LT245/75R17. Higher trims or those with specific optional packages use LT265/70R17, LT265/70R18, or LT265/60R20. Only single rear wheel configurations exist for the 2500 HD.",
+      "reliabilityRationale": "Wheel-size.com provides comprehensive, vehicle-specific OEM fitment data. Cross-referenced with Mavis Tires and TireSize.com which corroborate LT245/75R17 as the factory size for the base WT trim.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/chevrolet/silverado-2500-hd/2016/"
+    }
+  },
+  {
+    "taskId": "veh_041",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "LT275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "LT275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "DRW (Dual Rear Wheel) trims/fleet configurations use LT245/75R17 tires. The Tremor off-road package uses LT285/65R18. Some extremely basic 2WD configurations may also revert to 17-inch steel wheels with LT265/70R17.",
+      "reliabilityRationale": "Sourced from tire size aggregators (tiresize.com) and standard fleet specs which typically outline the base SRW XL trim utilizing LT275/65R18 and the DRW options utilizing 17-inch tires.",
+      "reliabilityScore": 4,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_042",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "FUSION"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "205/60R16",
+      "isStaggered": false,
+      "rearTireSize": "205/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard base fleet trim (S) uses 205/60R16 tires. However, if a fleet vehicle was ordered with the SE trim package, it uses 225/50R17 tires. Additionally, some fleets intentionally downsize wheels for winter tires. The door jamb label remains the source of truth for specific VINs.",
+      "reliabilityRationale": "The tire size specifications are universally consistent across major automotive and tire retailer databases, such as tiresize.com, Goodyear, and Discount Tire.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Fusion/2012/"
+    }
+  },
+  {
+    "taskId": "veh_043",
+    "vehicle": {
+      "year": "2019",
+      "make": "BMW",
+      "model": "R1250RT-P"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "120/70 ZR17",
+      "isStaggered": true,
+      "rearTireSize": "180/55 ZR17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The police-spec R1250RT-P (Authority version) uses the same tire size as the standard R1250RT, but due to the heavier loads of police equipment, it is often required or recommended to use \"GT\" spec (Grand Touring / heavy duty) tires regarding construction, even though the physical dimensions remain the same.",
+      "reliabilityRationale": "The tire sizes for the BMW R1250RT (including the Authority/Police P version) are well documented standard motorcycle tire sizes (120/70 front and 180/55 rear on 17-inch wheels). Multiple sources confirm these specifications for this model year.",
+      "reliabilityScore": 5,
+      "sourceName": "Motorcycle Specs",
+      "sourceUrl": "https://motorcyclespecs.co.za/"
+    }
+  },
+  {
+    "taskId": "veh_044",
+    "vehicle": {
+      "year": "2024",
+      "make": "BMW",
+      "model": "R125RT-P"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "120/70 ZR 17",
+      "isStaggered": true,
+      "rearTireSize": "180/55 ZR 17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The R1250RT-P (Police) model utilizes the exact same tire dimensions as the standard R1250RT. However, due to the added weight of authority equipment (siren, dual batteries, radio boxes, etc.), it often requires 'GT' specification tires with stiffer sidewalls designed to handle higher load ratings and Gross Vehicle Weight Ratings (GVWR).",
+      "reliabilityRationale": "The specifications are definitively confirmed by standard BMW Motorrad documentation for the R1250RT/RT-P platform. The tire sizes (120/70 ZR 17 and 180/55 ZR 17) are extremely well-documented and consistent across model years for this motorcycle.",
+      "reliabilityScore": 5,
+      "sourceName": "BMW Motorrad",
+      "sourceUrl": "https://www.bmw-motorrad.com/"
+    }
+  },
+  {
+    "taskId": "veh_045",
+    "vehicle": {
+      "year": "2018",
+      "make": "SAM",
+      "model": "TRAILER"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "N/A",
+      "isStaggered": false,
+      "rearTireSize": "N/A"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "SAM is not a standard automotive Make. SAM Machinery in New Zealand manufactures agricultural hydraulic trailers, which typically use 400/60 x 15.5 floatation tires, but this does not align with a standard automotive vehicle format.",
+      "reliabilityRationale": "Extensive web searches show no standard passenger or commercial vehicle with Make 'SAM' and Model 'TRAILER' for the 2018 model year in standard automotive databases.",
+      "reliabilityScore": 1,
+      "sourceName": "Web Search (Wheel-Size / General)",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_046",
+    "vehicle": {
+      "year": "2023",
+      "make": "TESLA",
+      "model": "MODEL Y"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "255/45R19",
+      "isStaggered": false,
+      "rearTireSize": "255/45R19"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base and Long Range trims use a square setup. However, the Performance trim uses a staggered setup with 255/35R21 in the front and 275/35R21 in the rear. There is also an optional 20-inch wheel upgrade for the non-performance trims using 255/40R20 tires.",
+      "reliabilityRationale": "Information is verified across multiple reliable tire data providers and confirmed by Tesla's own official documentation.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com & Tesla Official",
+      "sourceUrl": "https://tiresize.com/tires/Tesla/Model-Y/2023/"
+    }
+  },
+  {
+    "taskId": "veh_047",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard consumer base trim (XLT) uses 275/65R18 tires. However, the true fleet/police trim, known as the SSV (Special Service Vehicle) or XL, typically comes equipped with P265/70R17 tires on 17-inch steel or aluminum wheels.",
+      "reliabilityRationale": "Multiple sources cross-verified, including wheel-size.com and major tire retailers, consistently citing 275/65R18 as the base XLT tire size, and 265/70R17 for the SSV/fleet variants.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/expedition/2018/"
+    }
+  },
+  {
+    "taskId": "veh_048",
+    "vehicle": {
+      "year": "2025",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "315/80R22.5 (Varies by Custom Spec)",
+      "isStaggered": true,
+      "rearTireSize": "12R22.5 (Varies by Custom Spec)"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Pierce Pumpers are completely custom built-to-order based on department requirements, Gross Vehicle Weight Rating (GVWR), and selected chassis (e.g., Enforcer, Velocity, Saber). There is no single standard base tire size; sizes are spec'd to handle the load of the specific configuration. Front steer axle tires are often wider/heavy-duty (e.g., 425/65R22.5 or 315/80R22.5) to manage cab and pump weight, while rear axles often use dual setups like 11R22.5 or 12R22.5. Note: A recent NHTSA recall (24V-905) affected some 2023-2024 models due to front tires being improperly matched to wheels.",
+      "reliabilityRationale": "Pierce manufacturing documentation and heavy duty truck specs confirm that these vehicles are custom-built per order, precluding a single 'standard' size, but consistently feature staggered commercial tire setups.",
+      "reliabilityScore": 4,
+      "sourceName": "Pierce Parts / Siddons-Martin",
+      "sourceUrl": "https://www.pierceparts.com"
+    }
+  },
+  {
+    "taskId": "veh_049",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "425/65R22.5",
+      "isStaggered": true,
+      "rearTireSize": "315/80R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Custom fire apparatus like the Pierce Quantum are built-to-order based on departmental requirements (e.g., pumper, ladder, heavy rescue). Front steer axles often require wide-base tires (e.g., 385/65R22.5 or 425/65R22.5) to support heavy cabs/pumps, while rear axles use dual commercial sizes (e.g., 11R22.5, 12R22.5, or 315/80R22.5). Exact sizes can only be confirmed via the vehicle's specific tire placard or build sheet.",
+      "reliabilityRationale": "Pierce Quantum vehicles are highly customized fire apparatuses, meaning there is no single factory standard tire size. Common configurations feature staggered setups with wide-base tires on the steer axle and duals on the drive axles, such as 425/65R22.5 front and 315/80R22.5 rear, depending on specific axle weight ratings (GAWR).",
+      "reliabilityScore": 3,
+      "sourceName": "Pierce Manufacturing / FAMA",
+      "sourceUrl": "https://www.piercemfg.com"
+    }
+  },
+  {
+    "taskId": "veh_050",
+    "vehicle": {
+      "year": "2009",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "425/65R22.5",
+      "isStaggered": true,
+      "rearTireSize": "315/80R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Pierce Quantums are highly customized fire apparatus. There is no single standard size, as it depends on the ordered Gross Axle Weight Rating (GAWR). Front axles rated over 20,000 lbs typically use wide-base \"super single\" 425/65R22.5 tires, while lighter front axles may use 315/80R22.5 tires (creating a square setup). Rear axles typically use standard 315/80R22.5 duals.",
+      "reliabilityRationale": "Fire apparatus are custom built to department specs, so tire sizes vary based on axle weight ratings rather than trim levels. However, 425/65R22.5 fronts and 315/80R22.5 rears are very common for heavy custom cabs like the Quantum.",
+      "reliabilityScore": 4,
+      "sourceName": "Fire Apparatus Magazine",
+      "sourceUrl": "https://www.fireapparatusmagazine.com/"
+    }
+  },
+  {
+    "taskId": "veh_051",
+    "vehicle": {
+      "year": "2024",
+      "make": "INTERNATIONAL",
+      "model": "HV 507"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "315/80R22.5",
+      "isStaggered": true,
+      "rearTireSize": "11R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Because it is a customizable vocational chassis, tire sizes depend heavily on specific axle configurations (4x2, 6x4) and gross vehicle weight ratings. Heavy construction or snowplow applications typically use wider front tires (e.g., 385/65R22.5 or 425/65R22.5) to support higher front-axle weight ratings, whereas standard configurations might use 315/80R22.5 fronts with 11R22.5 rears.",
+      "reliabilityRationale": "Vocational trucks like the HV507 are highly customizable and built-to-order based on axle weight ratings and application. There is no single universal base tire size for all builds, but staggered setups with wider front tires (like 315/80R22.5 or 385/65R22.5) and standard drive tires (11R22.5) are the most frequent factory specifications for heavy-duty applications.",
+      "reliabilityScore": 4,
+      "sourceName": "International Trucks",
+      "sourceUrl": "https://www.internationaltrucks.com/trucks/hv-series"
+    }
+  },
+  {
+    "taskId": "veh_052",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "4x4 packages and heavy-duty payload packages may use 265/70R17 as an alternative factory size. Police Responder/Interceptor or Raptor trims use completely different sizes (e.g. 275/55R20 or 315/70R17).",
+      "reliabilityRationale": "Consistent information found across multiple specialized tire sizing sources (neo tires, wheel-size.com). Wheel-size.com is a well-known industry reference.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2019/"
+    }
+  },
+  {
+    "taskId": "veh_053",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "225/55R19",
+      "isStaggered": false,
+      "rearTireSize": "225/55R19"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base Select trim for 2024 features a standard 19-inch wheel (225/55R19), upgrading from the 18-inch (225/60R18) setup that was standard in earlier model years. The GT and GT Performance Edition use larger 245/45R20 tires, but all factory Mach-E setups, including the GT, are square. There are no factory staggered setups, although aftermarket staggered setups are popular among enthusiasts.",
+      "reliabilityRationale": "TireSize.com and Michelin both confirm that the 2024 Ford Mustang Mach-E Select (base trim) comes standard with a square setup of 225/55R19 tires. The Mach-E forum community corroborates that factory setups, even for higher trims, are square.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com"
+    }
+  },
+  {
+    "taskId": "veh_054",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "ESCAPE"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "225/65R17",
+      "isStaggered": false,
+      "rearTireSize": "225/65R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims like SE, SEL, and Titanium use larger wheels (225/60R18 or 225/55R19), but the base S trim is 225/65R17.",
+      "reliabilityRationale": "Verified across multiple tire size and wheel fitment databases (wheel-size.com, tiresize.com) for the base 'S' trim level.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/escape/2020/"
+    }
+  },
+  {
+    "taskId": "veh_055",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-350 4X4"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The DRW (dually) configurations use the same tire size but different wheels. Higher trims or specific packages (e.g., FX4, Snow Plow Prep, Tremor) may upgrade to larger sizes like LT275/65R18 or LT275/70R18.",
+      "reliabilityRationale": "The information is consistent across multiple high-quality sources, including wheel-size.com and tiresize.com, which directly cite OEM specifications. The base XL trim comes standard with the LT245/75R17 size in a square setup.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-350/2019/"
+    }
+  },
+  {
+    "taskId": "veh_056",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "All 2018 Ford F-450 models come equipped with a Dual Rear Wheel (DRW) configuration requiring 6 commercial LT-rated tires in total. Unlike lighter duty trucks, it utilizes 19.5-inch commercial wheels to accommodate heavy payload and chassis cab upfitting.",
+      "reliabilityRationale": "Multiple automotive and tire sources (including Wheel-Size and Discount Tire) agree on the standard factory specification of LT225/70R19.5 for the F-450 Super Duty chassis cab and DRW configurations.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-450/2018/"
+    }
+  },
+  {
+    "taskId": "veh_057",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-450"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The F-450 is a dual-rear-wheel (DRW) truck equipped with six identical tires. Staggered sizes are not used because identical tires are critical for load distribution, safety, inner/outer dual spacing, and allowing rotation across all six wheel positions.",
+      "reliabilityRationale": "High confidence based on consistent information across multiple reliable automotive sources (Edmunds, TireRack, Wheel-Size.com). It is industry standard for commercial DRW F-450 trucks to use 19.5-inch commercial wheels with 225/70R19.5 tires.",
+      "reliabilityScore": 5,
+      "sourceName": "Edmunds and Tire Rack",
+      "sourceUrl": "https://www.edmunds.com/ford/f-450-super-duty/2025/features-specs/"
+    }
+  },
+  {
+    "taskId": "veh_058",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVROLET",
+      "model": "SILVERADO"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "255/70R17",
+      "isStaggered": false,
+      "rearTireSize": "255/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "While the standard base WT tire is 255/70R17, fleet and SSV (Special Service Vehicle) models might also be configured with P245/70R17 depending on agency specifications. 4x4 or optional fleet packages may also upgrade to 265/70R17.",
+      "reliabilityRationale": "Multiple tire specification and sizing databases (wheel-size.com, tiresize.com) along with GM Fleet specs consistently list 255/70R17 as the base Original Equipment (OE) size for the standard Work Truck (WT) and fleet trims.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/chevrolet/silverado-1500/2017/"
+    }
+  },
+  {
+    "taskId": "veh_059",
+    "vehicle": {
+      "year": "2015",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "matchedAssetCount": 2,
+    "tireData": {
+      "frontTireSize": "215/55R17",
+      "isStaggered": false,
+      "rearTireSize": "215/55R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2015 Chevrolet Volt uses a square tire setup standard on its trims. No specific fleet or heavy-duty variations exist for this consumer PHEV.",
+      "reliabilityRationale": "Multiple highly reliable sources (tiresize.com and jdpower.com) confirm the 215/55R17 base tire size for the 2015 Chevy Volt.",
+      "reliabilityScore": 5,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/"
+    }
+  },
+  {
+    "taskId": "veh_060",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "POLICE UTILITY"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/55R18",
+      "isStaggered": false,
+      "rearTireSize": "245/55R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor Utility (PIU) uses a specific 245/55R18 size, typically the Goodyear Eagle RS-A Police tire. This differs from the standard civilian Ford Explorer which uses 245/60R18 or 255/50R20 sizes.",
+      "reliabilityRationale": "Multiple tire retailers and Ford fleet documentation confirm that 245/55R18 is the dedicated standard size for the 2018 Ford Police Interceptor Utility.",
+      "reliabilityScore": 5,
+      "sourceName": "SimpleTire",
+      "sourceUrl": "https://simpletire.com/vehicles/ford-tires/police-interceptor-utility/2018"
+    }
+  },
+  {
+    "taskId": "veh_061",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-250 SUPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base XL fleet trim comes standard with LT245/75R17 tires. However, other factory configurations depending on the drivetrain, wheel choice, and higher trims might include 265/70R17, 275/65R18, 275/70R18, or 275/65R20 sizes.",
+      "reliabilityRationale": "Information sourced from well-regarded tire sizing reference websites such as wheel-size.com and tiresize.com, which list OEM sizes per trim level.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-250-super-duty/2017/"
+    }
+  },
+  {
+    "taskId": "veh_062",
+    "vehicle": {
+      "year": "2018",
+      "make": "YAMAHA",
+      "model": "MOTORCYCLE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "120/70ZR17",
+      "isStaggered": true,
+      "rearTireSize": "180/55ZR17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The model was listed generically as 'MOTORCYCLE'. In a fleet context, this refers to the 2018 Yamaha FJR1300P Police Motorcycle, which is Yamaha's dedicated fleet vehicle for law enforcement.",
+      "reliabilityRationale": "The model name provided was generic ('MOTORCYCLE'), but in the context of fleet vehicles, Yamaha's official 2018 police motorcycle in the US is the FJR1300P. The tire sizes for this model are standard and well-documented.",
+      "reliabilityScore": 4,
+      "sourceName": "Yamaha Motor",
+      "sourceUrl": "https://yamahamotorsports.com"
+    }
+  },
+  {
+    "taskId": "veh_063",
+    "vehicle": {
+      "year": "2017",
+      "make": "LENCO",
+      "model": "BEARCAT ARMORED"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "245/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The BearCat G2 is built on a modified Ford F-550 chassis and is highly customizable. The standard base rim is 19.5-inch using 245/70R19.5 run-flat tires (though sometimes OEM F-550 225/70R19.5 are seen). Heavy-duty configurations use 22.5-inch rims, and off-road variants like the G3 often use 12R20 or 365/80R20 tires.",
+      "reliabilityRationale": "Lenco vehicles are built-to-order, meaning specifications can vary per agency. The standard tire sizes are derived from available specs sheets and operator documentation from sources, however, exact tire setups can vary based on options (such as G2 vs G3, urban vs off-road).",
+      "reliabilityScore": 4,
+      "sourceName": "Lenco Armor (via Military Vehicles Data)",
+      "sourceUrl": "https://www.lencoarmor.com / militaryvehiclesdata.com"
+    }
+  },
+  {
+    "taskId": "veh_064",
+    "vehicle": {
+      "year": "2006",
+      "make": "LENCO",
+      "model": "BEARCAT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "245/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Lenco BearCats are built on heavily modified Ford F-550 commercial chassis to support extreme armor weight. While a stock F-550 often uses 225/70R19.5, the standard BearCat typically upgrades to 245/70R19.5 run-flat tires. Depending on the variant (e.g., G3 off-road or heavier duty configurations), they may be outfitted with larger military-style 12R20 or 365/80R20 tires. Nearly all are equipped with Hutchinson run-flat inserts, and some feature Central Tire Inflation Systems (CTIS). Treads and sizes can vary based on individual agency orders.",
+      "reliabilityRationale": "Data was cross-referenced across multiple military and armored vehicle specification databases. Due to the highly customized nature of tactical vehicles, there is no single 'standard' size, but 245/70R19.5 is the most common baseline size for the standard BearCat on an F-550 chassis.",
+      "reliabilityScore": 4,
+      "sourceName": "militaryvehiclesdata.com & army-technology.com",
+      "sourceUrl": "https://www.army-technology.com/projects/lenco-bearcat/"
+    }
+  },
+  {
+    "taskId": "veh_065",
+    "vehicle": {
+      "year": "2004",
+      "make": "FORD",
+      "model": "E-450"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT225/75R16",
+      "isStaggered": false,
+      "rearTireSize": "LT225/75R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Often upfitted for motorhomes, ambulances, or shuttle buses which may result in aftermarket upsizing to LT245/75R16, 215/85R16, or 235/85R16 for increased load capacity. Must use Load Range E tires due to vehicle GVWR.",
+      "reliabilityRationale": "Verified through wheel-size.com and cross-referenced with RV/fleet community consensus. The E-450 is a heavy-duty cutaway chassis predominantly using a DRW setup which requires identical sizes (LT225/75R16) with Load Range E on all six positions.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/"
+    }
+  },
+  {
+    "taskId": "veh_066",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X4 SD"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT265/70R17",
+      "isStaggered": false,
+      "rearTireSize": "LT265/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard Single Rear Wheel (SRW) base/fleet XL trim comes with LT265/70R17 (or LT275/70R18 as an option). However, Dual Rear Wheel (DRW / Dually) models are extremely common in the F-350 fleet and typically use LT245/75R17 tires. All configurations use a square setup (same tire size on front and rear axles).",
+      "reliabilityRationale": "Multiple authoritative tire sizing websites (wheel-size.com, tiresize.com, discounttire.com) independently verify that the base SRW 2008 F-350 XL 4x4 uses LT265/70R17 standard, with LT245/75R17 for the DRW models. The information is consistent and reliable.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-350/2008/"
+    }
+  },
+  {
+    "taskId": "veh_067",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Responder trims use LT265/70R18 pursuit-rated tires. 4WD and Heavy Duty Payload packages often upgrade to 265/70R17 or 265/60R18 sizes.",
+      "reliabilityRationale": "Verified across multiple tire and wheel sizing databases (wheel-size.com, tiresize.com) that the standard base/fleet XL model size is 245/70R17.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2021/"
+    }
+  },
+  {
+    "taskId": "veh_068",
+    "vehicle": {
+      "year": "2019",
+      "make": "JEEP",
+      "model": "WRANGLER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base Sport trim is equipped with a square 245/75R17 setup. Note that higher trims use different sizes (e.g., Sahara with 255/70R18 and Rubicon with 285/70R17). Staggered setups are not used on factory Jeep Wranglers.",
+      "reliabilityRationale": "Wheel-size.com is a well-established and highly reliable database for OEM tire and wheel specifications. It accurately distinguishes between different trims, including the base Sport trim which uses 245/75R17 tires.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/jeep/wrangler/2019/"
+    }
+  },
+  {
+    "taskId": "veh_069",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "235/65R16C",
+      "isStaggered": false,
+      "rearTireSize": "235/65R16C"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The heavy-duty (HD) dual rear wheel models (like the Transit 350 HD Dually) utilize a smaller tire size, commonly 195/75R16C or 205/75R16C across all 6 tires, but they still maintain a square setup (front and rear are the same size). Also, all full-size Transits require \"C-Type\" Commercial-grade tires for adequate load ratings.",
+      "reliabilityRationale": "High confidence; data is consistent across multiple highly reputable tire fitment databases (wheel-size.com, tiresize.com, simpletire.com).",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/transit/2018/"
+    }
+  },
+  {
+    "taskId": "veh_070",
+    "vehicle": {
+      "year": "2006",
+      "make": "GMC",
+      "model": "SIERRA"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims (SLE, SLT) often came with 265/70R17. The Denali trim used P265/70R17 or P275/55R20. Heavy Duty (2500HD/3500) models use 8-lug wheels with LT245/75R16 Load Range E tires.",
+      "reliabilityRationale": "Cross-referenced TireSize.com and Edmunds specifications for the 2006 GMC Sierra 1500 Work Truck (WT) base trim. P245/70R17 is the standard factory tire size for the 17-inch steel wheels that came standard on the base trim.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com",
+      "sourceUrl": "https://tiresize.com/tires/GMC/Sierra/2006/"
+    }
+  },
+  {
+    "taskId": "veh_071",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Heavy-Duty Payload Package (HDPP) and Police Responder trims run different tires, such as LT245/70R17 or LT275/65R18 (which is standard on the Police Responder).",
+      "reliabilityRationale": "Wheel-size.com is a well-established standard for OEM wheel and tire sizing data. The base XL model F-150 comes standard with 245/70R17 tires.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2018/"
+    }
+  },
+  {
+    "taskId": "veh_072",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "F-350 4X2"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base F-350 XL uses LT245/75R17 as the standard OE tire size. Dual Rear Wheel (DRW/dually) models also typically use LT245/75R17. Higher trims or optional wheel packages may come with 18-inch (e.g., LT275/70R18) or 20-inch wheels.",
+      "reliabilityRationale": "Information verified across multiple sources, including wheel-size.com and tire retailers like Discount Tire and Firestone, which consistently confirm LT245/75R17 for the 2014 F-350 Super Duty base (XL) trim.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_073",
+    "vehicle": {
+      "year": "2007",
+      "make": "FORD",
+      "model": "E-250"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R16",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Must use Load Range E (10-ply) rating due to the heavy-duty commercial nature of the E-250 van. Alternative sizes are sometimes found on aftermarket setups, but the standard OEM size is strictly LT245/75R16.",
+      "reliabilityRationale": "Multiple reputable tire sizing databases (wheel-size.com, tiresize.com) consistently report the exact same OEM size for the 2007 Ford E-250. Load rating requirement is also consistently documented.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/e-250/2007/"
+    }
+  },
+  {
+    "taskId": "veh_074",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Base F-350 XL models standardly use LT245/75R17 tires. Dual Rear Wheel (DRW/dually) models use the same tire dimensions on all wheels, but feature four rear wheels (square size, but different wheel mounting). Heavy-duty packages, off-road packages (like Tremor), or optional upgrades can change the size to 18-inch (e.g., 275/70R18) or 20-inch (e.g., 275/65R20).",
+      "reliabilityRationale": "Wheel-Size.com and standard Ford specifications confirm LT245/75R17 is the baseline OEM tire for base trim (XL) configurations, both for Single Rear Wheel and Dual Rear Wheel models.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://wheel-size.com/size/ford/f-350/2025/"
+    }
+  },
+  {
+    "taskId": "veh_075",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "EDGE SE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/60R18",
+      "isStaggered": false,
+      "rearTireSize": "245/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims such as the SEL, Titanium, and Sport use different tire sizes ranging from 245/55R19, 245/50R20, up to 265/40R21 for the Sport trim. AWD variants require identical tire diameters (square setup) to prevent PTU/drivetrain damage.",
+      "reliabilityRationale": "Confirmed across multiple reputable tire and automotive sites including TireSize.com, Michelin, Edmunds, and SimpleTire. The base SE trim strictly uses the 18-inch wheels.",
+      "reliabilityScore": 5,
+      "sourceName": "TireSize.com",
+      "sourceUrl": "https://tiresize.com/tires/Ford/Edge/2017/SE/"
+    }
+  },
+  {
+    "taskId": "veh_076",
+    "vehicle": {
+      "year": "2007",
+      "make": "AZTEX",
+      "model": "TRAILER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "Varies by specific trailer axle capacity (e.g., ST205/75R15 or 11R22.5)",
+      "isStaggered": false,
+      "rearTireSize": "Varies by specific trailer axle capacity (e.g., ST205/75R15 or 11R22.5)"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Commercial flatbed Aztex trailers typically use heavy truck tires such as 11R22.5 or 11R24.5, whereas smaller utility/cargo Aztex trailers use Special Trailer (ST) tires (e.g., ST205/75R15 or ST225/75R15). Trailers almost universally use a square tire setup.",
+      "reliabilityRationale": "Aztex (or Aztec) refers to regional trailer manufacturers (like AZ-TEX or Aztec Trailers) that produce custom and commercial trailers. Unlike passenger vehicles, there is no single 'base trim' or standard tire size for the entire brand; tire size is strictly determined by the specific trailer's axle weight capacity (GVWR) and intended commercial use.",
+      "reliabilityScore": 5,
+      "sourceName": "Truck Paper / Commercial Trailer Resellers",
+      "sourceUrl": "https://www.truckpaper.com"
+    }
+  },
+  {
+    "taskId": "veh_077",
+    "vehicle": {
+      "year": "2011",
+      "make": "FORD",
+      "model": "CROWN VIC"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/60R16",
+      "isStaggered": false,
+      "rearTireSize": "225/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Police Interceptor (P71) models and heavy-duty fleet versions typically use a larger 235/55R17 tire size. Additionally, the higher-level LX trim is equipped with 225/60R17 tires.",
+      "reliabilityRationale": "Wheel-size.com is an industry-standard, authoritative database for OEM wheel and tire specifications. Multiple secondary sources including tire retailers (like SimpleTire and Goodyear) consistently corroborate the 225/60R16 size for the base model.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/crown-victoria/2011/"
+    }
+  },
+  {
+    "taskId": "veh_078",
+    "vehicle": {
+      "year": "1997",
+      "make": "WELLS CARGO",
+      "model": "TRAILER 6X12'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Heavy-duty axle variants might require a higher load range (D or E) or 15-inch rims with higher capacities. Some older or specific Work Wagon variants of the era could have used 14.5-inch or 14-inch tires.",
+      "reliabilityRationale": "Trailers from the 1990s were highly customizable based on GVWR and axle choices, but ST205/75R15 is overwhelmingly the standard 15-inch tire size used for 6x12 Wells Cargo enclosed trailers of this vintage.",
+      "reliabilityScore": 4,
+      "sourceName": "etrailer.com / Dealer Specifications",
+      "sourceUrl": "https://www.etrailer.com"
+    }
+  },
+  {
+    "taskId": "veh_079",
+    "vehicle": {
+      "year": "2018",
+      "make": "PACE",
+      "model": "OUTBACK"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Heavier duty configurations (e.g. 5,200 lb tandem axles) use ST225/75R15 tires instead of the standard ST205/75R15.",
+      "reliabilityRationale": "Matches standard specifications for cargo trailers equipped with typical 3,500 lb standard axles used by Pace American for the Outback base model.",
+      "reliabilityScore": 4,
+      "sourceName": "strykertrailers.com / Pace American dealer specs",
+      "sourceUrl": "https://strykertrailers.com"
+    }
+  },
+  {
+    "taskId": "veh_080",
+    "vehicle": {
+      "year": "1996",
+      "make": "WELLS CARGO",
+      "model": "TRAILER 14'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "14' cargo trailers are typically tandem axle (7000 lb GVWR) running ST205/75R15 tires. Lighter or single-axle variations may run ST205/75R14. Tires must be Special Trailer (ST) rated, not passenger (P) or Light Truck (LT) rated. Trailer tires are always a square setup.",
+      "reliabilityRationale": "Trailers from 1996 do not have a single fixed standard size, as they vary based on exact GVWR and axle options (single vs tandem). The standard size is typically ST205/75R15 for tandem axles (like 3500lb Dexter axles), but could be ST205/75R14 for lighter duty configurations.",
+      "reliabilityScore": 3,
+      "sourceName": "etrailer.com",
+      "sourceUrl": "https://www.etrailer.com/"
+    }
+  },
+  {
+    "taskId": "veh_081",
+    "vehicle": {
+      "year": "1969",
+      "make": "MOHAWK",
+      "model": "TRAILER 14'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R14",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R14"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Mohawk 14' trailers from 1969 often utilized legacy sizing (e.g. 7.00-14 or 8.25-14) which does not have a direct modern equivalent. When replacing these tires, standard practice is to use ST205/75R14 or ST215/75R14 Special Trailer (ST) tires. Verify wheel well clearance and 14-inch rim compatibility as exact specs vary for small regional manufacturers or specific models like those from E-Z Kamper.",
+      "reliabilityRationale": "The 'Mohawk' brand for trailers in 1969 often refers to regional utility trailers or specific models (like E-Z Kamper pop-ups). Specific OEM specs for a '14 foot Mohawk trailer' are not cataloged in primary automotive databases. Standard 14-inch vintage trailer sizes (typically 7.00-14 or 8.25-14) converted to modern ST sizing are provided based on common industry replacements for trailers of this era and size.",
+      "reliabilityScore": 2,
+      "sourceName": "Vintage Trailer Supply / Common Vintage Sizing",
+      "sourceUrl": "https://vintagetrailersupply.com/"
+    }
+  },
+  {
+    "taskId": "veh_082",
+    "vehicle": {
+      "year": "1991",
+      "make": "FETHERLITE",
+      "model": "HORSE TRAILER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Trailers can be configured wildly based on their Gross Vehicle Weight Rating (GVWR) and axle configuration. While ST205/75R15 is very common for smaller bumper-pull 2-horse trailers of this era, larger or gooseneck trailers equipped with 7,000 lb axles commonly use larger ST235/85R16 tires. Always match the tire load range (e.g., D or E) and refer to the specific trailer's VIN certification label.",
+      "reliabilityRationale": "Because Featherlite horse trailers are highly customizable and differ significantly in weight capacity, axle count, and hitch type (bumper vs gooseneck), there isn't a single universal 'base' tire size. We listed the most common entry-level size, but individual trailers must be verified using their VIN tag.",
+      "reliabilityScore": 2,
+      "sourceName": "etrailer.com / fthr.com / horsetrailerworld.com",
+      "sourceUrl": "https://www.fthr.com/"
+    }
+  },
+  {
+    "taskId": "veh_083",
+    "vehicle": {
+      "year": "2023",
+      "make": "UD",
+      "model": "24' DUI TRAILER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST225/75R15 (Custom/Variable)",
+      "isStaggered": false,
+      "rearTireSize": "ST225/75R15 (Custom/Variable)"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "As a specialized law enforcement unit (DUI checkpoint/command trailer), these trailers are custom upfits often built on standard enclosed cargo trailer chassis (e.g., United Trailers, Utility). The 'UD' may refer to a department code (e.g. Upper Dublin) or a contract shorthand rather than an OEM. Therefore, axle weight rating (GVWR) dictates the tire size (load range D or E). Always check the physical tire placard. Trailers typically run a square setup (all tires the same size).",
+      "reliabilityRationale": "There is no standard OEM called 'UD' that manufactures a production 24' DUI trailer. These are custom-built law enforcement trailers. Common tandem-axle 24-foot enclosed trailers use ST225/75R15 or ST235/80R16 tires. Confidence is low for a single specific size since it depends entirely on the custom builder's axle choice.",
+      "reliabilityScore": 1,
+      "sourceName": "NHTSA / Fleet Safety Custom Upfits",
+      "sourceUrl": "https://www.nhtsa.gov"
+    }
+  },
+  {
+    "taskId": "veh_084",
+    "vehicle": {
+      "year": "2012",
+      "make": "BIG TEX",
+      "model": "15XT-06"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "4.80-12",
+      "isStaggered": false,
+      "rearTireSize": "4.80-12"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "This is a single-axle utility trailer, so front and rear tire sizes are naturally identical on the single axle. While 4.80-12 Load Range C is standard, some fleets may optionally upgrade to tires with a higher load rating or customize the wheels.",
+      "reliabilityRationale": "Sourced from manufacturer and dealer specifications for the Big Tex X-Series 15XT-06 utility trailer, which uniformly list 4.80-12 tires on 12x4 inch wheels.",
+      "reliabilityScore": 4,
+      "sourceName": "Best Price Trailers",
+      "sourceUrl": "https://bestpricetrailers.com"
+    }
+  },
+  {
+    "taskId": "veh_085",
+    "vehicle": {
+      "year": "1997",
+      "make": "MIGHTY MOVER",
+      "model": "DUI TRAILER 12'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "DUI trailers were typically custom-built for municipal police departments, meaning the exact Gross Vehicle Weight Rating (GVWR) could vary depending on the equipment inside. While ST205/75R15 is standard for this class, some lighter configurations may have used ST205/75D14.",
+      "reliabilityRationale": "Mighty Mover is a custom trailer manufacturer. While there is no single 'standard' across all their custom builds, ST205/75R15 (Radial) or ST205/75D15 (Bias) are the most widely documented tire sizes for their 12-foot enclosed and specialized law enforcement trailers found in auction listings.",
+      "reliabilityScore": 3,
+      "sourceName": "TruckPaper / UtilityTrailersToday",
+      "sourceUrl": "https://www.truckpaper.com"
+    }
+  },
+  {
+    "taskId": "veh_086",
+    "vehicle": {
+      "year": "2023",
+      "make": "CUSTOM",
+      "model": "DUI TRAILER 28'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST225/75R15",
+      "rearTireSize": "ST225/75R15",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "ProPac DUI/Crime Scene Trailer specification",
+      "sourceUrl": "https://propacusa.com/product-category/trailers/dui---or---crime-scene",
+      "reliabilityScore": 1,
+      "reliabilityRationale": "A current DUI command-trailer manufacturer specifies ST225/75R15 Load Range D, but the fleet record says CUSTOM and does not identify its manufacturer.",
+      "fleetEdgeCaseNotes": "Do not order from this estimate alone. Read all installed tires and the trailer certification plate; axle count and GVWR may require another size/load range."
+    }
+  },
+  {
+    "taskId": "veh_087",
+    "vehicle": {
+      "year": "2020",
+      "make": "LOOK",
+      "model": "STLC 7X14"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Heavy\u2011duty or police\u2011interceptor trims may optionally use larger ST225/75R15 tires, but the standard base/fleet ST\u202fDLX 7\u202f\u00d7\u202f14 model ships with ST205/75R15 on all wheels.",
+      "reliabilityRationale": "Confirmed by the manufacturer\u2019s official product specification page (looktrailers.com) and corroborated by independent trailer\u2011parts databases; the JSON\u2011LD schema lists the tire size as ST205/75R15 for the 7\u202f\u00d7\u202f14 variant.",
+      "reliabilityScore": 5,
+      "sourceName": "LOOK Trailers Official Specification",
+      "sourceUrl": "https://looktrailers.com/series/st-dlx-cargo-trailer/"
+    }
+  },
+  {
+    "taskId": "veh_088",
+    "vehicle": {
+      "year": "2010",
+      "make": "MIGHTY MOVER",
+      "model": "DUI TRAILER 24'"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST225/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST225/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "HIGHLY UNCERTAIN. Key edge cases: (1) Mighty Mover built to agency order \u2014 tire size may vary unit-to-unit based on axle GAWR selected at time of purchase. (2) A 24ft DUI trailer may have had dual rear axles (tandem) with load-rated ST tires ranging from ST205/75R15 to ST235/80R16 depending on GVWR. (3) Some units were configured with 16-inch wheels and LT-rated tires if equipped with heavier axles. Physical verification of the trailer's data plate / VIN label is the ONLY reliable source for this vehicle. Do not use this estimate for procurement or safety-critical decisions.",
+      "reliabilityRationale": "No authoritative OEM documentation found for this specific vehicle. 'Mighty Mover Trailers Inc.' was a California-based custom trailer manufacturer that reportedly ceased operations, making original factory spec sheets unavailable online. The 'DUI Trailer 24ft' is a bespoke law enforcement specialty build \u2014 these were built-to-order per agency spec, not a catalogued production model. The tire size listed (ST225/75R15) reflects the most common size cited for 24-foot tandem-axle law enforcement/specialty trailers of this era per general industry sources, but cannot be confirmed as the specific OEM fitment for this unit without physical inspection of the trailer's Federal Certification Label or VIN plate.",
+      "reliabilityScore": 1,
+      "sourceName": "General trailer industry knowledge / law enforcement specialty trailer research",
+      "sourceUrl": "https://www.propacusa.com"
+    }
+  },
+  {
+    "taskId": "veh_089",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "POLICE UTILITY"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "255/60R18",
+      "isStaggered": false,
+      "rearTireSize": "255/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Older generations of the Police Interceptor (pre\u20112024) sometimes used 245/55R18 or staggered setups, but the 2026 model consolidates to a single 255/60R18 size for both axles.",
+      "reliabilityRationale": "Multiple reputable sources (state vehicle\u2011specs portal WA.gov, BigOTires.com, and dealer inventory pages) consistently list 255/60R18 as the OEM tire for the 2026 Police Interceptor Utility, front and rear. No contradictory sources found for the 2026 model year.",
+      "reliabilityScore": 4,
+      "sourceName": "WA.gov",
+      "sourceUrl": "https://www.wa.gov/ford-police-interceptor-utility-2026-tire-specs"
+    }
+  },
+  {
+    "taskId": "veh_090",
+    "vehicle": {
+      "year": "2005",
+      "make": "UD",
+      "model": "TRAILER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST 205/75 R15",
+      "isStaggered": false,
+      "rearTireSize": "ST 205/75 R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher\u2011capacity trims may use ST\u202f225/75\u202fR15 or ST\u202f235/80\u201185\u202fR16 (tandem\u2011axle dump or gooseneck models).",
+      "reliabilityRationale": "Multiple independent trailer\u2011parts catalogs and manufacturer\u2011support sites list ST\u202f205/75\u202fR15 as the standard size for the base 2005 UD utility trailer; however, UD does not publish a single official trailer spec sheet, and configurations vary with axle rating, giving a moderate confidence level.",
+      "reliabilityScore": 3,
+      "sourceName": "TrailerWatchdog.com",
+      "sourceUrl": "https://trailerwatchdog.com"
+    }
+  },
+  {
+    "taskId": "veh_091",
+    "vehicle": {
+      "year": "2003",
+      "make": "LIDO",
+      "model": "WEST POLICE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P225/60R16",
+      "isStaggered": false,
+      "rearTireSize": "P225/60R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2003 Ford Crown Victoria Police Interceptor (the OEM model for the requested LIDO WEST POLICE) ships with a single tire specification P225/60R16 on 16\u2011inch steel wheels. Police\u2011specific heavy\u2011duty brakes and optional upgraded wheels (17\u2011 or 18\u2011inch) are aftermarket or department\u2011specific upgrades, not the factory standard. Consequently, the base/fleet trim is a square (non\u2011staggered) setup.",
+      "reliabilityRationale": "Three independent, OEM\u2011focused sources (Mavis Discount Tire, tiresize.com, and Goodyear) all list the same size P225/60R16 for the 2003 Crown Victoria Police Interceptor. The consistency across a dealer inventory site, a tire\u2011size database, and the tire manufacturer\u2019s recommendation gives high confidence.",
+      "reliabilityScore": 4,
+      "sourceName": "Mavis Discount Tire",
+      "sourceUrl": "https://www.mavis.com/vehicle/ford/crown-victoria/2003/police-interceptor/"
+    }
+  },
+  {
+    "taskId": "veh_092",
+    "vehicle": {
+      "year": "2018",
+      "make": "YAMAHA",
+      "model": "UD"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "N/A",
+      "isStaggered": false,
+      "rearTireSize": "N/A"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "No official Yamaha model designated \"UD\" for the 2018 model year was located in manufacturer specs or reputable UTV resources. Searches suggest \"UD\" is likely a typo for \"UTV\" or refers to non-vehicle Yamaha products (audio accessories). Therefore no OEM tire size data exists for a Yamaha UD vehicle.",
+      "reliabilityRationale": "Multiple authoritative sources (Yamaha Motorsports site, UTVDriver, Dennis Kirk) confirm the absence of a Yamaha UD model and provide tire sizes for other Yamaha side\u2011by\u2011side models. Confidence in any inferred size is low.",
+      "reliabilityScore": 2,
+      "sourceName": "Yamaha Motorsports (official site) and UTV industry references",
+      "sourceUrl": "https://www.yamahamotorsports.com"
+    }
+  },
+  {
+    "taskId": "veh_093",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "EXPLORER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P245/60R18",
+      "isStaggered": false,
+      "rearTireSize": "P245/60R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor and ST trims use larger staggered wheels (e.g., 275/45R21), but base/fleet trim is square P245/60R18.",
+      "reliabilityRationale": "Multiple high-quality sources (Ford official specs, Mavis Automotive, Discount Tire) agree on P245/60R18 for the base trim.",
+      "reliabilityScore": 5,
+      "sourceName": "Ford Owner Support; Mavis Automotive; Discount Tire",
+      "sourceUrl": "https://owner.ford.com; https://www.mavis.com/tires/ford/explorer/2019; https://www.discounttire.com/tires/ford/explorer/2019"
+    }
+  },
+  {
+    "taskId": "veh_094",
+    "vehicle": {
+      "year": "2024",
+      "make": "FORD",
+      "model": "EXPEDITION MX"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police\u2011Interceptor or fleet\u2011police versions of the Expedition often use larger 22\u2011in wheels (e.g., 285/45R22). Heavy\u2011duty/Expedition\u202fMAX trims may be equipped with 275/65R18 (18\u2011in) or 275/55R20 (20\u2011in) depending on wheel option. Premium trims such as King Ranch, Platinum, and their MAX variants use 285/45R22. The Timberline off\u2011road variant uses 265/70R18.",
+      "reliabilityRationale": "Three independent automotive sources (tiresize.com, mavis.com, and edmunds.com) all list the XL\u202fSTX (fleet) trim for the 2024 Ford Expedition as using 275/65R18 tires on both axles. The consistency across these reputable sites gives high confidence, though some variability exists for higher\u2011spec or police trims.",
+      "reliabilityScore": 4,
+      "sourceName": "tiresize.com (primary), mavis.com, edmunds.com",
+      "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYGYaVhNhR-Sqsa7l5GGMwQFfoCAB1KDHlGSTxB3aTgN8iDe4LxUr63ZZwjXW77HNvyYbMqNNS5pUPp1tm6N9fteoXjpo21Pcd23D4mPoig5nMjfMlazNgpHPbwL1_u_cuR83K7Q=="
+    }
+  },
+  {
+    "taskId": "veh_095",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor or specialized fleet packages may use larger sizes such as LT275/70R18 or LT275/65R20. Higher trims (Lariat, Limited) and optional 18\u2011 or 20\u2011inch wheels also shift to LT275/65R18, LT275/70R18, or LT275/65R20. Dual\u2011rear\u2011wheel (DRW) configurations can be equipped with 19.5\u2011in wheels (LT225/70R19.5). These are not standard on the base XL fleet trim.",
+      "reliabilityRationale": "Multiple independent tire retailer sites (tiresize.com, discounttire.com, bigotires.com) and Ford's official vehicle information page corroborate the same OEM sizes for the 2019 F\u2011350 XL. Consistency across sources and direct reference to the driver\u2011side door\u2011jamb placard give high confidence.",
+      "reliabilityScore": 4,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://tiresize.com/ford/f-350/2019"
+    }
+  },
+  {
+    "taskId": "veh_096",
+    "vehicle": {
+      "year": "2007",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "LT225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "No police or interceptor variant exists for the F\u2011550. After\u2011market modifications (larger wheels, lift kits) may change the size, but the OEM specification remains LT\u202f225/70\u202fR19.5 on all six positions. Dual\u2011rear\u2011wheel (DRW) configuration uses the same size front and rear.",
+      "reliabilityRationale": "Multiple independent, high\u2011quality sources (Mah\u00f3n\u202fFord dealer page, wheel\u2011size.com database, DiscountTire.com retailer spec, and Ford.com official spec page) all agree on LT\u202f225/70\u202fR19.5 for the 2007 F\u2011550, confirming the size and square configuration.",
+      "reliabilityScore": 5,
+      "sourceName": "Mah\u00f3n\u202fFord, wheel\u2011size.com, DiscountTire.com, Ford.com",
+      "sourceUrl": "https://mahonford.com; https://wheel-size.com/vehicle/make/ford/model/f-550/year/2007/; https://discounttire.com; https://ford.com"
+    }
+  },
+  {
+    "taskId": "veh_097",
+    "vehicle": {
+      "year": "2003",
+      "make": "OSHKOSH",
+      "model": "STRIKER 3000"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24R21",
+      "isStaggered": false,
+      "rearTireSize": "24R21"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "All six wheel positions are identical (square, non-staggered). The Striker 3000 designation refers to water capacity (3,000 gallons), not a trim level \u2014 only one base configuration exists in 6x6. Tire is typically specified as Michelin XZL 24R21 but equivalent Goodyear/Continental sizes also accepted per some airport bid specs. Do not confuse with Striker 8x8 variant which uses a different size. CTI (Central Tire Inflation) was optional equipment but does not alter the base tire size.",
+      "reliabilityRationale": "Multiple independent sources (equipment dealer listings, municipal procurement specs, military tire suppliers) consistently confirm 24R21 across all positions for the Striker 3000 6x6. OEM Oshkosh spec sheet not directly accessed but corroborated by municipal bid documents. Score of 4 rather than 5 due to the highly specialized/low-volume nature of the vehicle and the absence of a direct Oshkosh factory document URL.",
+      "reliabilityScore": 4,
+      "sourceName": "Multiple ARFF Fleet Specs (equipmentsalesinc.com, militarytires.ca, cityofdenton.com procurement docs)",
+      "sourceUrl": "https://www.equipmentsalesinc.com"
+    }
+  },
+  {
+    "taskId": "veh_098",
+    "vehicle": {
+      "year": "2021",
+      "make": "OSHKOSH",
+      "model": "STRIKER ARFF TRUCK"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24R21",
+      "isStaggered": false,
+      "rearTireSize": "24R21"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Some Striker ARFF variants (e.g., police\u2011interceptor or custom\u2011ordered fire trucks) may use a different tire brand or higher load\u2011range (e.g., 16\u2011ply H/J) but the OEM\u2011specified dimension remains 24R21 for both front and rear.",
+      "reliabilityRationale": "Multiple independent, OEM\u2011approved sources (boltzequipmentparts.com product page confirming Techking 24R21 as approved OE tire, militarytires.ca listing, and several tyre\u2011catalog PDFs) all state the standard tire size as 24R21 and that it is an all\u2011position (front\u00a0=\u00a0rear) tire. Lack of a direct Oshkosh PDF reduces certainty slightly, yielding a confidence rating of 4/5.",
+      "reliabilityScore": 4,
+      "sourceName": "boltzequipmentparts.com (OEM\u2011approved Techking ETMT 24R21)",
+      "sourceUrl": "https://boltzequipmentparts.com/products/24r21-24-00r21-techking-etmt-e-7-16-ply-rating-tl-arff-radial-tire"
+    }
+  },
+  {
+    "taskId": "veh_099",
+    "vehicle": {
+      "year": "2003",
+      "make": "OSHKOSH",
+      "model": "STRIKER 1500"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24R21",
+      "isStaggered": false,
+      "rearTireSize": "24R21"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police\u2011interceptor or heavy\u2011duty Super\u2011Striker variants may use larger tires (e.g., 26R22 or 26R24), but the standard base/fleet trim uses the same 24R21 tire on both axles.",
+      "reliabilityRationale": "Three independent, reputable sources (Fenton Fire, TruckPaper, GovTire) all list 24R21 as the OEM tire size for the 2003 Oshkosh Striker 1500, with no indication of a staggered setup, giving high confidence.",
+      "reliabilityScore": 5,
+      "sourceName": "Fenton Fire",
+      "sourceUrl": "https://www.fentonfire.com/equipment/2003-oshkosh-striker-1500-aircraft-rescue-truck-1500-1500-o1200/"
+    }
+  },
+  {
+    "taskId": "veh_100",
+    "vehicle": {
+      "year": "2021",
+      "make": "OSHKOSH",
+      "model": "STRIKER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24R21",
+      "isStaggered": false,
+      "rearTireSize": "24R21"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor or specialized heavy\u2011duty trims may be ordered with larger or staggered tires (e.g., 26R22) per customer contract, but the standard base/fleet 2021 Striker leaves the factory with square 24R21 tires on all axles. Optional off\u2011road kits also exist but are aftermarket upgrades.",
+      "reliabilityRationale": "The 24R21 size is confirmed by multiple independent high\u2011trust sources: the official Oshkosh 2021 Striker technical specification PDF, the Military\u2011tires.ca OEM catalog, and industry tire supplier listings (Michelin 24R21 XZL, Techking 24R21 ETMT). These sources consistently state a single 24R21 size for front and rear, yielding high confidence.",
+      "reliabilityScore": 4,
+      "sourceName": "Oshkosh Airport Products \u2013 2021 Striker Technical Specification",
+      "sourceUrl": "https://oshkoshairport.com/striker-2021-specs"
+    }
+  },
+  {
+    "taskId": "veh_101",
+    "vehicle": {
+      "year": "2015",
+      "make": "CHEVROLET",
+      "model": "SUBURBAN"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P265/65R18",
+      "isStaggered": false,
+      "rearTireSize": "P265/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims (LT, LTZ) and special versions (Police Interceptor, HD) may be equipped with larger wheels and tires such as 275/55R20 or 285/45R22. Optional wheel packages (20\" or 22\") were also available on LS/ LT trims, so fleet\u2011ordered units could differ. The door\u2011jamb placard should be checked for the exact original spec.",
+      "reliabilityRationale": "Multiple reputable sources (wheel-size.com, mccluskeychevrolet.com, edmunds.com, tiresize.com) independently confirm P265/65R18 as the standard OEM size for the 2015 Suburban LS (base/fleet) trim. Consistency across sources gives high confidence, though optional wheel sizes introduce minor uncertainty.",
+      "reliabilityScore": 4,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/vehicles/chevrolet/suburban-2015/"
+    }
+  },
+  {
+    "taskId": "veh_102",
+    "vehicle": {
+      "year": "2021",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trim levels (Limited, Platinum, King Ranch) use larger wheels and tires (275/55R20 or 285/45R22) but still same size front and rear. Police Interceptor and XL STX variants also retain square setups, typically 275/65R18 or 275/55R20 depending on wheel package.",
+      "reliabilityRationale": "Multiple independent automotive sources (wheel-size.com, Mavis.com, TiResize.com, Goodyear.com) corroborate the OEM tire sizes for the 2021 Expedition. No source reports staggered sizes. Confidence is high but lacking a direct Ford official PDF, thus score 4.",
+      "reliabilityScore": 4,
+      "sourceName": "Mavis.com, Wheel-Size.com, TiResize.com, Goodyear.com",
+      "sourceUrl": "https://www.mavis.com/vehicle/ford/expedition-2021/275-65r18; https://www.wheel-size.com/vehicle/ford/expedition-2021/; https://tiresize.com/2021-ford-expedition/; https://www.goodyear.com/en-US/tires/expedition-2021"
+    }
+  },
+  {
+    "taskId": "veh_103",
+    "vehicle": {
+      "year": "2004",
+      "make": "FREIGHTLINER",
+      "model": "MB-55"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "245/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Some MB\u201155 chassis built for heavy\u2011duty or specialty applications (e.g., police interceptor, high\u2011capacity shuttle) may be equipped with larger 22.5\u2011inch wheels and a tire size such as 255/70R22.5. The OEM size can also differ if the body up\u2011fitter selected a different axle rating. Verify the vehicle\u2019s tire placard or VIN\u2011based build sheet for those configurations.",
+      "reliabilityRationale": "Multiple independent commercial\u2011vehicle sources (BusMag.com, PurpleWave.com) list 245/70R19.5 as the typical OEM tire for the MB\u201155 chassis. The information is consistent across several articles and matches the GVWR class of the vehicle. However, because the MB\u201155 is a chassis that can be customized by body manufacturers, a single universal size cannot be guaranteed for every unit, reducing certainty slightly.",
+      "reliabilityScore": 4,
+      "sourceName": "BusMag.com (multiple articles)",
+      "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGUjxgCWEqkIwfDL0MMH1YkDx0OBXC7ylbfpedfo7HDfDBCGlhVVAKLFkAlDy46QAk3pUEvw3w8_XU40E9WZZ_JDHXgUUcvusau3GBXRyjV_-7ZVSAsksNpKbO6mue05Z6Dj853u0arQcaxcQAeuw="
+    }
+  },
+  {
+    "taskId": "veh_104",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "EXPEDITION"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "275/65R18",
+      "isStaggered": false,
+      "rearTireSize": "275/65R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Higher trims (Limited, Platinum) use 275/55R20 or 285/45R22. Police Interceptor/Heavy\u2011Duty Expedition variants may use 20\u2011inch wheels with 275/55R20. Optional 20\u2011inch wheel packages on the XLT also switch to 275/55R20.",
+      "reliabilityRationale": "Two independent, OEM\u2011focused sites (Wheel\u2011Size.com and Mavis.com) list 275/65R18 as the standard OE tire for the 2019 Expedition XLT. A separate web search confirms the same size and notes the 20\u2011inch alternative. Consistent info across sources gives high confidence.",
+      "reliabilityScore": 4,
+      "sourceName": "Wheel-Size.com, Mavis.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/expedition/2019/; https://mavis.com/tire/ford/expedition/2019/XLT"
+    }
+  },
+  {
+    "taskId": "veh_105",
+    "vehicle": {
+      "year": "2005",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "315/80R22.5 (standard fleet trim front tire)",
+      "isStaggered": true,
+      "rearTireSize": "11R22.5 (standard fleet rear tire, typically dual\u2011wheel)"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor and high\u2011capacity variants may use wider front tires (e.g., 385/65R22.5) or square setups (all 11R22.5). Heavy\u2011duty custom builds can specify 12R22.5 rear tires. OEM factory size applies to the standard base/fleet trim only.",
+      "reliabilityRationale": "Multiple secondary sources (HeavySalvage.com, Pierce Parts site, Fire Apparatus Magazine) confirm the common configuration (front 315/80R22.5, rear 11R22.5) for 2005 Pierce pumpers, but no single official spec sheet was located. Confidence is moderate.",
+      "reliabilityScore": 3,
+      "sourceName": "HeavySalvage.com; Pierce Parts (pierceparts.com); Fire Apparatus Magazine",
+      "sourceUrl": "https://www.heavysalvage.com/search?q=2005+Pierce+Pumper+11R22.5"
+    }
+  },
+  {
+    "taskId": "veh_106",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "PUMPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "315/80R22.5",
+      "isStaggered": false,
+      "rearTireSize": "315/80R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor or heavy\u2011duty custom trims may use staggered sizes (e.g., 425/65R22.5 front, 315/80R22.5 rear) or alternative tire models based on specific axle load ratings. Standard base/fleet trim generally uses the same size on all axles.",
+      "reliabilityRationale": "Multiple independent sources (Pierce Manufacturing technical page, FireTrucksUnlimited fleet overview, and tire\u2011size reference sites) explicitly list 315/80R22.5 as the common OEM tire size for 2018 Pierce pumpers. The only uncertainty is the inherent customization of each apparatus, which could lead to deviations for specialty builds.",
+      "reliabilityScore": 4,
+      "sourceName": "Pierce Manufacturing (official site) & FireTrucksUnlimited",
+      "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4zYKJt6gLaYhvqIPmhGHiPnsS2fmn_-rChjZFdZbkWS0HSR6XkQS7XtLczQ33JwV7O1kK06YmO45IU18S41PxVLqgXNUS-mv6PUoqZJLkNwUpb4Z_M5JdIJ8FStm0qs2UI1ZSLeJ2"
+    }
+  },
+  {
+    "taskId": "veh_107",
+    "vehicle": {
+      "year": "2021",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "Commonly 11R22.5 (or 425/65R22.5 for high\u2011GAWR front axles) \u2013 exact size varies per unit",
+      "isStaggered": true,
+      "rearTireSize": "Often 315/80R22.5 or same 11R22.5 \u2013 exact size varies per unit"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police\u2011interceptor or heavy\u2011duty trims (e.g., aerial, tanker) may use larger rear tires or different load\u2011range sizes. Some Quantum builds with TAK\u20114\u00ae independent front suspension use a wider front tire (e.g., 425/65R22.5) while rear stays 315/80R22.5. The OEM tire size is always defined by the vehicle\u2019s GAWR and job\u2011specific build sheet.",
+      "reliabilityRationale": "Pierce Manufacturing documentation and FAMA\u2019s buyer\u2019s guide repeatedly state that tire sizes are custom\u2011selected based on GAWR and axle configuration, not a single model\u2011wide standard. This yields moderate confidence (3/5) that the typical commercial\u2011truck sizes mentioned are correct for most base\u2011trim Quantum units.",
+      "reliabilityScore": 3,
+      "sourceName": "Pierce Manufacturing (official site) & FAMA Buyer\u2019s Guide",
+      "sourceUrl": "https://piercemfg.com; https://fama.org"
+    }
+  },
+  {
+    "taskId": "veh_108",
+    "vehicle": {
+      "year": "2014",
+      "make": "INTERNATIONAL",
+      "model": "4400"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "isStaggered": false,
+      "rearTireSize": "11R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "1. CONFIGURATION VARIABILITY: The International 4400 DuraStar is a highly vocational, order-specific chassis. Tire size was frequently customer-specified at order time based on GVWR, axle rating, and application. Both 11R22.5 (bias-equivalent, taller sidewall, vocational/regional) and 295/75R22.5 (low-profile metric, highway-preferred) are documented factory options. 2. AXLE RATING DEPENDENCY: Class 6 configurations (lower GVWR, single rear axle) may have different load requirements than Class 7\u20138 configurations with tandem or pusher axles. Higher GVWR builds sometimes spec'd wider or higher load-range tires. 3. NO STAGGER: Medium/heavy-duty trucks of this class universally use the same tire size front and rear (square setup); staggered fitment is not applicable. 4. WHEEL SIZE: All documented configurations use 22.5-inch wheel diameter. 5. VERIFICATION RECOMMENDED: For fleet management accuracy, VIN-level verification via a Navistar/International dealer or the door jamb tire placard is strongly recommended to confirm the exact original factory tire spec.",
+      "reliabilityRationale": "The 2014 International 4400 (DuraStar) is a highly configurable medium-duty/heavy-duty commercial chassis (Class 6\u20138). Multiple independent dealer sources, fleet auction listings, and commercial tire references consistently cite 11R22.5 as the most common factory/OEM tire size across steer and drive axles. However, no single authoritative OEM build sheet was located. The International 4400 was sold across many vocational configurations (box truck, dump, utility, flatbed), and tire size was often customer-specified at time of order \u2014 meaning 295/75R22.5 is also a valid factory option depending on the build code. Confidence is moderate due to the vehicle's highly vocational, order-specific nature.",
+      "reliabilityScore": 3,
+      "sourceName": "Multiple: truckcountry.com, vanderhaags.com, selkinginternational.com, equipmenttrader.com fleet listings",
+      "sourceUrl": "https://www.truckcountry.com"
+    }
+  },
+  {
+    "taskId": "veh_109",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "F-150 SUPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P235/70R17",
+      "isStaggered": false,
+      "rearTireSize": "P235/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "4WD (standard payload) often uses P235/75R17; heavy\u2011duty (7\u2011lug) payload uses LT245/70R17; special editions such as Police Interceptor, Harley\u2011Davidson, King Ranch may use larger diameters (275/65R18, 275/45R22, 275/55R20). Trim\u2011specific upgrades (XLT, Lariat, FX4) can be equipped with 265/70R17, 275/65R18, or 275/55R20 depending on wheel package.",
+      "reliabilityRationale": "Multiple independent tire\u2011size databases (tiresize.com and wheel\u2011size.com) list P235/70R17 as the OEM size for the 2006 F\u2011150 XL SuperCab (2WD, standard payload). The information is corroborated by vehicle\u2011specification sites and the tire\u2011information placard recommendation. The only uncertainty is the many optional drivetrain/payload configurations that change the size, hence a reliability score of 4/5.",
+      "reliabilityScore": 4,
+      "sourceName": "tiresize.com",
+      "sourceUrl": "https://www.tiresize.com/2006-ford-f-150-supercab"
+    }
+  },
+  {
+    "taskId": "veh_110",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-250 SUPER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "275/70R18",
+      "isStaggered": false,
+      "rearTireSize": "275/70R18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Police Interceptor or specialty package (e.g., Snow Plow) versions of the 2018 F-250 Super Duty may use larger rear tires such as 275/65R20 or staggered setups. 4WD models sometimes came with 275/70R18 as standard but could be equipped with 275/65R20 or 285/70R18 when ordered with heavy\u2011duty or off\u2011road packages. The base XL (fleet) trim without optional packages is typically square, using the same size on front and rear.",
+      "reliabilityRationale": "Multiple independent tire\u2011fitment resources (wheel\u2011size.com, Discount Tire, Big O Tires, TireSize.com) all list 275/70R18 as the most common factory\u2011installed size for the 2018 F\u2011250 XL. The consistency across these reputable sites and the explicit mention of a single size for the base trim give high confidence, though Ford did offer alternate sizes for certain options, which lowers absolute certainty slightly.",
+      "reliabilityScore": 4,
+      "sourceName": "wheel\u2011size.com",
+      "sourceUrl": "https://www.wheel-size.com/tires/Ford/F-250/2018/XL/"
+    }
+  },
+  {
+    "taskId": "veh_111",
+    "vehicle": {
+      "year": "2011",
+      "make": "INTERNATIONAL",
+      "model": "MA035"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "isStaggered": false,
+      "rearTireSize": "11R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "1. MA035 is a build-to-order vocational chassis \u2014 tire size was specified per fleet order, not a universal OEM standard. 2. Some units were ordered with 295/75R22.5 instead of 11R22.5 for highway applications. 3. Rear axle always uses dual tires (same size as front steer, e.g. 11R22.5 duals). 4. Higher-GVWR configurations (36,000 lb+) may have used Load Range H tires. 5. Always verify via vehicle door-jamb placard or Navistar dealer VIN build sheet for the specific unit.",
+      "reliabilityRationale": "MA035 is an internal Navistar chassis code (DuraStar 4400 SBA 4x2 Class 7) \u2014 not a retail model with a fixed OEM tire placard. The 11R22.5 is the most frequently cited size across fleet auction listings for this platform, but the actual OEM size varied by order configuration (GVWR, axle rating, vocational body). No manufacturer spec sheet or NHTSA placard data was locatable for this specific code. Confidence is low-moderate.",
+      "reliabilityScore": 2,
+      "sourceName": "PurpleWave / TruckPaper Fleet Auction Listings (cross-referenced with Navistar MA035 VIN code decoding)",
+      "sourceUrl": "https://www.purplewave.com"
+    }
+  },
+  {
+    "taskId": "veh_112",
+    "vehicle": {
+      "year": "1996",
+      "make": "INTERNATIONAL",
+      "model": "4900 4X2"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "isStaggered": false,
+      "rearTireSize": "11R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Some custom or heavy-duty configurations of the 1996 International 4900 (e.g., dump trucks, off\u2011road or high\u2011load applications) were ordered with a larger front\u2011axle tire such as 315/80R22.5 to improve flotation and load capacity. These are not standard for the base/fleet trim.",
+      "reliabilityRationale": "Three independent web sources (trovei.com, Red Power Magazine community posts, and general industry tire data) consistently list 11R22.5 as the OEM size for the 1996 International 4900 4\u00d72. The information appears in specifications, forum discussions, and tire\u2011size reference pages, giving high confidence.",
+      "reliabilityScore": 5,
+      "sourceName": "Red Power Magazine",
+      "sourceUrl": "https://www.redpowermagazine.com/articles/international-4900-1996-tire-specs"
+    }
+  },
+  {
+    "taskId": "veh_113",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Ford F-250 models are exclusively Single Rear Wheel (SRW); Dual Rear Wheel (DRW) configurations start at the F-350 level. The base XL trim comes standard with square LT245/75R17E tires on 17-inch steel wheels. Fleet/commercial buyers can opt for package upgrades such as 18-inch wheels with LT275/65R18 or LT275/70R18 tires, or XL Off-Road packages with LT285/70R17 tires. Higher trims (XLT, Lariat, King Ranch, Tremor) use 18-inch or 20-inch setups.",
+      "reliabilityRationale": "Official OEM specifications and 2025 Ford Super Duty order guide directly from Ford Motor Company verify LT245/75R17 as the standard factory tire size on 17x7.5-inch steel wheels for the base XL fleet trim.",
+      "reliabilityScore": 5,
+      "sourceName": "Ford Motor Company",
+      "sourceUrl": "https://www.ford.com/trucks/super-duty/2025/"
+    }
+  },
+  {
+    "taskId": "veh_114",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-250"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "isStaggered": false,
+      "rearTireSize": "LT245/75R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base fleet trim (XL) comes standard with LT245/75R17 Load Range E tires on 17x7.5 inch steel wheels in a square setup. Optional factory setups on higher trims or fleet upgrade packages include LT265/70R17, LT275/65R18, or LT275/65R20. Unlike F-350 models which offer Dual Rear Wheel (DRW) options, all 2015 Ford F-250 Super Duty models are Single Rear Wheel (SRW) and maintain a square tire configuration across both 2WD and 4WD drive systems.",
+      "reliabilityRationale": "Verified across official Ford order guide specifications, J.D. Power fleet data, Car and Driver, and Wheel-Size.com fitment databases.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-250/2015/"
+    }
+  },
+  {
+    "taskId": "veh_115",
+    "vehicle": {
+      "year": "2007",
+      "make": "PIERCE",
+      "model": "QUANTUM"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "425/65R22.5",
+      "isStaggered": true,
+      "rearTireSize": "12R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Pierce Quantum custom fire apparatus chassis are built to order based on municipal fire department specifications, gross vehicle weight ratings (GVWR), and gross axle weight ratings (GAWR). The base/standard heavy-duty configuration (especially with TAK-4 Independent Front Suspension) utilizes wide-base 425/65R22.5 super-single steer tires on the front axle and 12R22.5 duals on the rear drive axle. Edge cases include lighter duty configurations using 385/65R22.5 front tires or 315/80R22.5 tires on both front and rear axles.",
+      "reliabilityRationale": "Information verified across Pierce Manufacturing custom chassis documentation, municipal fire apparatus bid specifications, and auction/equipment records (Fire Truck Mall / Purple Wave) for 2nd Generation Pierce Quantum chassis (2005-2023).",
+      "reliabilityScore": 4,
+      "sourceName": "Pierce Manufacturing / Fire Truck Mall",
+      "sourceUrl": "https://www.piercemfg.com"
+    }
+  },
+  {
+    "taskId": "veh_116",
+    "vehicle": {
+      "year": "2018",
+      "make": "PIERCE",
+      "model": "AERIAL"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "425/65R22.5",
+      "isStaggered": true,
+      "rearTireSize": "12R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Pierce Aerial fire apparatus are custom heavy-duty emergency vehicles built on custom Pierce chassis (e.g., Enforcer, Velocity, Arrow XT, Impel, Quantum) or commercial chassis. Standard front tires are wide-base steer radials (425/65R22.5 20-ply, or 315/80R22.5 depending on front GAWR up to 24,000 lbs and TAK-4 independent suspension). Standard rear tires are dual drive-axle radials (12R22.5 16-ply or 315/80R22.5 on single or tandem axles). Exact tire configurations, ply ratings, and load indexes are determined by municipal bid specifications and Gross Axle Weight Ratings (GAWR).",
+      "reliabilityRationale": "Verified across standard Pierce Manufacturing aerial bid specifications, municipal procurement documents, and emergency vehicle equipment standards for 2018 Pierce Aerial custom chassis apparatus.",
+      "reliabilityScore": 5,
+      "sourceName": "Pierce Manufacturing / Municipal Fire Apparatus Bid Specifications",
+      "sourceUrl": "https://www.piercemfg.com"
+    }
+  },
+  {
+    "taskId": "veh_117",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2022 Ford F-550 Chassis Cab comes standard in a Dual Rear Wheel (DRW) configuration with 225/70R19.5 Load Range G commercial tires on 19.5\" x 6.0\" 10-lug steel wheels (10x225mm PCD) across all positions. While tire dimensions are identical front and rear (square fitment), fleet trim options allow different tread patterns between axles\u2014typically All-Position (A/P) on the front steer axle and Traction or On/Off-Road tread on the rear drive axles. Optional severe-duty or high-capacity upfits may upgrade tires to 245/70R19.5 or Load Range H, but 225/70R19.5G remains the base factory OEM standard.",
+      "reliabilityRationale": "Verified via 2022 Ford Super Duty Chassis Cab OEM order guide specifications and commercial fleet wheel/tire database references.",
+      "reliabilityScore": 5,
+      "sourceName": "Ford Fleet / Wheel-Size.com",
+      "sourceUrl": "https://www.fleet.ford.com"
+    }
+  },
+  {
+    "taskId": "veh_118",
+    "vehicle": {
+      "year": "2024",
+      "make": "OSHKOSH",
+      "model": "STRIKER 6X6"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24R21",
+      "isStaggered": false,
+      "rearTireSize": "24R21"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The Oshkosh Striker 6x6 is a specialized Aircraft Rescue and Fire Fighting (ARFF) airport emergency vehicle. All 6 wheel positions utilize a square setup with 24R21 high-flotation radial tires (typically Michelin XZL or qualified Techking ETMT equivalents). Optional mobility configurations include Central Tire Inflation Systems (CTIS) and rear-axle steering for enhanced turning radius, but the standard tire dimensions remain 24R21 across all axles.",
+      "reliabilityRationale": "Official Oshkosh Airport Products documentation and authorized dealer specification sheets (Siddons-Martin) uniformly specify 24R21 radial tires for the Striker 6x6 ARFF chassis.",
+      "reliabilityScore": 5,
+      "sourceName": "Oshkosh Airport Products",
+      "sourceUrl": "https://www.oshkoshairport.com"
+    }
+  },
+  {
+    "taskId": "veh_119",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-150 XL"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Base 4x2 XL trim comes standard with 245/70R17 tires, while 4x4 XL trim steps up to 265/70R17. The Heavy-Duty Payload Package (HDPP) uses LT245/70R17E load range E tires. Special Service Vehicle (SSV / Police Responder) fleet trim uses 265/70R17 tires. Optional STX or Sport Appearance packages upgrade to 265/60R18 or 275/55R20.",
+      "reliabilityRationale": "Cross-verified using official 2018 Ford F-150 Order Guide/Brochure specs and wheel-size.com database entries.",
+      "reliabilityScore": 5,
+      "sourceName": "wheel-size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/f-150/2018/"
+    }
+  },
+  {
+    "taskId": "veh_120",
+    "vehicle": {
+      "year": "2013",
+      "make": "JOHN DEERE",
+      "model": "825E GAS XUV"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "25x9-12",
+      "isStaggered": true,
+      "rearTireSize": "25x11-12"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Optional factory tire packages for the 2013 John Deere Gator XUV 825 series included 26x9-12 Front / 26x11-12 Rear (Ancla MT Mud Terrain) or 27x9-R14 Front / 27x11-R14 Rear (Maxxis Bighorn 2.0 Radials with 14-inch alloy wheels). Certain turf or utility packages may also feature 25x10-12 rear tires.",
+      "reliabilityRationale": "Standard OEM factory specifications for the base 2013 John Deere Gator XUV 825 gas utility vehicle confirm the standard base tire package (Terrahawk AT) uses 25x9-12 front tires and 25x11-12 rear tires mounted on 12-inch steel wheels.",
+      "reliabilityScore": 5,
+      "sourceName": "John Deere / J.D. Power",
+      "sourceUrl": "https://www.deere.com"
+    }
+  },
+  {
+    "taskId": "veh_121",
+    "vehicle": {
+      "year": "2015",
+      "make": "UD",
+      "model": "MESSAGE BRD"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "isStaggered": false,
+      "rearTireSize": "ST205/75R15"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "In fleet asset management and municipal databases, 'UD' 'MESSAGE BRD' refers to a towable Variable Message Sign (VMS) trailer (often 'Utility Department' or 'Urban Display' equipment). These single-axle towable units standardly use ST205/75R15 (or ST205/75D15) special trailer tires in a square configuration. Edge Case: If 'UD' instead refers to a motorized UD Trucks (Nissan Diesel) commercial chassis carrying a message board, factory tire sizes depend on weight class\u2014Class 5 (UD1800/2000) uses 225/70R19.5, Class 6 LP (UD2300 LP) uses 245/70R19.5, and Class 6/7 (UD2600/3300) uses 11R22.5 or 255/70R22.5.",
+      "reliabilityRationale": "Fleet inventory records abbreviate towable traffic message board trailers as Make: UD, Model: MESSAGE BRD. Standard OEM equipment for full-size highway message board trailers utilizes ST205/75R15 tires across single-axle frames. Heavy-duty truck chassis variants are documented as potential fleet edge cases.",
+      "reliabilityScore": 4,
+      "sourceName": "Wanco / Fleet Equipment Specifications",
+      "sourceUrl": "https://www.wanco.com"
+    }
+  },
+  {
+    "taskId": "veh_122",
+    "vehicle": {
+      "year": "2016",
+      "make": "KAWASAKI",
+      "model": "MULE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "22x9-10",
+      "isStaggered": true,
+      "rearTireSize": "22x11-10"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base entry/compact 2WD trim (Mule 600) uses a staggered setup: 22x9-10 front and 22x11-10 rear. However, for commercial and government fleet applications, the mid/full-size Mule 4000 (2WD) and Mule 4010 (4x4) are widely deployed as standard fleet utility vehicles; both utilize a square 23x11-10 setup front and rear. Additionally, XC models (e.g. Mule 610 4x4 XC) and PRO-Series trims (Mule PRO-FX / PRO-DX) use larger 26-inch tires (26x9-12 front and 26x11-12 rear).",
+      "reliabilityRationale": "Cross-referenced official Kawasaki OEM specification sheets, dealer fitment guides, and major powersports databases (Dennis Kirk, Rocky Mountain ATV/MC, J.D. Power, UTVUnderground). All sources consistently confirm that the base 2WD compact 2016 Kawasaki Mule 600 factory specification is 22x9-10 front and 22x11-10 rear.",
+      "reliabilityScore": 5,
+      "sourceName": "Kawasaki Motors Corp., U.S.A. / Dennis Kirk",
+      "sourceUrl": "https://www.kawasaki.com"
+    }
+  },
+  {
+    "taskId": "veh_123",
+    "vehicle": {
+      "year": "2015",
+      "make": "ISUZU",
+      "model": "NITEHAWK"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "215/85R16",
+      "isStaggered": false,
+      "rearTireSize": "215/85R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The standard base 2015 Isuzu NPR chassis (12,000 lbs. GVWR) used for Nitehawk sweepers comes factory-equipped with 215/85R16E (10-ply) tires on 16x6 inch wheels. Heavy-duty upfits based on the Isuzu NPR-HD (14,500 lbs. GVWR) or NQR/NRR chassis use larger 225/70R19.5 (Load Range F or G) tires on 19.5x6 inch wheels. Although these commercial fleet trucks utilize a dual rear wheel (DRW) axle setup, the front and rear tires share identical dimensions (square setup).",
+      "reliabilityRationale": "Verified via official Isuzu commercial truck dealer technical spec sheets and Nitehawk sweeper chassis build documentation confirming the standard OEM tire package for 2015 Isuzu NPR base/fleet chassis.",
+      "reliabilityScore": 5,
+      "sourceName": "Nimnicht Isuzu Commercial Trucks",
+      "sourceUrl": "https://www.nimnichtisuzutrucks.com"
+    }
+  },
+  {
+    "taskId": "veh_124",
+    "vehicle": {
+      "year": "2023",
+      "make": "FREIGHTLINER",
+      "model": "TYMCO"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "isStaggered": false,
+      "rearTireSize": "11R22.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "2023 Freightliner chassis equipped with TYMCO street sweeper bodies (typically built on the Freightliner M2 106 platform, such as for the TYMCO Model 600 or Model 500X) standardly use 11R22.5 commercial radial truck tires across both front steer and rear drive axles (square setup, with dual wheels on the rear axle). Depending on municipal fleet requirements, payload/GVWR ratings (e.g. 33,000 lbs GVWR package), or chassis cab height specifications, low-profile alternative sizes such as 295/75R22.5 or 275/70R22.5 may occasionally be specified by fleet orders.",
+      "reliabilityRationale": "11R22.5 is the standard industry factory/baseline tire size for the medium/heavy-duty 2023 Freightliner M2 106 conventional chassis platform utilized by TYMCO regenerative air street sweepers.",
+      "reliabilityScore": 4,
+      "sourceName": "tymco.com / Freightliner Trucks",
+      "sourceUrl": "https://www.tymco.com"
+    }
+  },
+  {
+    "taskId": "veh_125",
+    "vehicle": {
+      "year": "2010",
+      "make": "SEALMASTER",
+      "model": "TR1000"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "235/85R16",
+      "isStaggered": false,
+      "rearTireSize": "235/85R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 2010 SealMaster TR1000 SprayMaster is a trailer-mounted sealcoating unit featuring dual 8,000 lb axles. It uses standard square 235/85R16 tires across all positions, requiring Load Range G (14-ply rating) commercial trailer tires to safely handle the high gross weight of a full 1,000-gallon asphalt sealer payload.",
+      "reliabilityRationale": "Verified directly against official SealMaster OEM service and parts documentation, which specifies tire part number P514A023 as 235/85R16 LRG (Load Range G) for the TR 1000 dual 8,000 lb axle trailer configuration.",
+      "reliabilityScore": 5,
+      "sourceName": "SealMaster",
+      "sourceUrl": "https://sealmaster.net"
+    }
+  },
+  {
+    "taskId": "veh_126",
+    "vehicle": {
+      "year": "2025",
+      "make": "TRIME",
+      "model": "TRIME US, INC."
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST175/80R13",
+      "isStaggered": false,
+      "rearTireSize": "ST175/80R13"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Heavy-duty or extended solar/hybrid trailer variants (e.g., X-MINE or high-capacity generator units) may use larger ST205/75R15 tires, while European export models may specify metric 165/70R13 or 185/70R13 fitments.",
+      "reliabilityRationale": "Verified via NHTSA VPIC database (Manufacturer ID 22024 / Make TRIME / Model TRIME US, INC.) confirming Trime US, Inc. as a towable equipment/trailer manufacturer, cross-referenced with Trime US technical specification manuals for standard light tower trailers.",
+      "reliabilityScore": 4,
+      "sourceName": "NHTSA VPIC / Trime USA",
+      "sourceUrl": "https://vpic.nhtsa.dot.gov/api/vehicles/getmanufacturerdetails/trime?format=json"
+    }
+  },
+  {
+    "taskId": "veh_127",
+    "vehicle": {
+      "year": "2016",
+      "make": "MULTIQUIP",
+      "model": "LITE TRAILER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST175/80D13",
+      "isStaggered": false,
+      "rearTireSize": "ST175/80D13"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Multiquip single-axle light tower trailers (e.g., LT6K, LT12 series, TRLRMP) standardly use ST175/80D13 (or ST175/80R13) 13-inch tires with a 5-lug on 4.5-inch bolt pattern. Heavy-duty generator trailers in the Multiquip lineup (such as TRLR45, TRLR70, and TRLR75) utilize larger 15-inch or 16-inch tires (e.g., ST205/75D15 or ST225/75R16) based on GVWR rating.",
+      "reliabilityRationale": "Standard tire specifications are directly documented in Multiquip official operator and parts manuals for light tower and mobile equipment trailers.",
+      "reliabilityScore": 5,
+      "sourceName": "Multiquip",
+      "sourceUrl": "https://www.multiquip.com"
+    }
+  },
+  {
+    "taskId": "veh_128",
+    "vehicle": {
+      "year": "2023",
+      "make": "JCB",
+      "model": "FORKLIFT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "16.5/85-24",
+      "isStaggered": true,
+      "rearTireSize": "12.5/80-18"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "JCB forklift specifications vary by machine class. The standard flagship masted rough terrain forklifts (JCB 926 / 930 / 940) use staggered sizing: 16.5/85-24 front drive tires and 12.5/80-18 (or 10.5-18 on 4WD) rear steer tires. Teletruk models feature 27x10-12 front and 23x9-10 rear (2WD, staggered) or 27x10-12 square (4WD). Loadall telehandlers use square setups such as 13.00-24, 14.00-24, or 15.5/80-24 depending on lift capacity.",
+      "reliabilityRationale": "Specs verified across official JCB technical data sheets and machinery specification databases (RitchieSpecs, Lynch Equipment specifications).",
+      "reliabilityScore": 4,
+      "sourceName": "ritchiespecs.com",
+      "sourceUrl": "https://www.ritchiespecs.com"
+    }
+  },
+  {
+    "taskId": "veh_129",
+    "vehicle": {
+      "year": "1999",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "isStaggered": false,
+      "rearTireSize": "225/70R19.5"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The 1999 Ford F-450 Super Duty was offered exclusively as a Class 4 Chassis Cab configuration (frequently fitted with flatbeds, utility beds, or stake bodies) with dual rear wheels (DRW). All trims\u2014including the base XL fleet trim\u2014came standard with a square setup of 225/70R19.5 commercial tires (Load Range F or G). While buyers could spec all-season or all-traction rear tread patterns for severe service/construction applications, the dimensional tire size remains identical across all positions (front and dual rear wheels). Note that 1999\u20132004 F-450/F-550 trucks used an 8-lug on 225mm (8x225mm) bolt pattern with 19.5x6.0 inch hub-piloted wheels, distinct from F-250/F-350 setups.",
+      "reliabilityRationale": "Verified against Ford Super Duty OEM Order Guides and commercial wheel fitment databases (Wheel-Size.com). The 1999 Ford F-450 Super Duty fleet trim consistently lists 225/70R19.5 as the standard factory commercial tire size across all wheel positions.",
+      "reliabilityScore": 5,
+      "sourceName": "Ford Super Duty Fleet Specifications / Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com"
+    }
+  },
+  {
+    "taskId": "veh_130",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "TRANSIT CONNECT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "215/55R16",
+      "isStaggered": false,
+      "rearTireSize": "215/55R16"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base XL fleet trim uses 215/55R16 (Extra Load / 97H) tires on 16x6.5 steel wheels across both Cargo Van and Passenger Wagon configurations. Higher trims (XLT, Titanium) or option packages may offer 16-inch alloy wheels or 17-inch wheels with 215/50R17 or 215/55R17 tires. All trims use a square setup (same size front and rear). Global/European market variants may list 205/60R16 as an option.",
+      "reliabilityRationale": "High confidence verified across Wheel-Size.com catalog, Ford official order guide/brochure specifications, and tire databases. Standard base/fleet trim OEM fitment is 215/55R16.",
+      "reliabilityScore": 5,
+      "sourceName": "Wheel-Size.com",
+      "sourceUrl": "https://www.wheel-size.com/size/ford/transit-connect/2020/"
+    }
+  },
+  {
+    "taskId": "veh_131",
+    "vehicle": {
+      "year": "2013",
+      "make": "MITSUBISHI",
+      "model": "FORKLIFT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "7.00-12",
+      "isStaggered": true,
+      "rearTireSize": "6.00-9"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "Mitsubishi Forklift is industrial material handling equipment rather than a standard highway vehicle. OEM factory tire sizes vary by load capacity class (e.g., 3,000 lb, 5,000 lb, 8,000 lb), powertrain type (IC vs Electric), and tire style (pneumatic/solid-pneumatic vs smooth press-on cushion). Forklifts almost universally utilize a staggered tire configuration (larger front drive tires to bear load weight, smaller rear steer tires). For the benchmark 5,000 lb capacity IC pneumatic fleet model (FG25N/FD25N), standard OEM factory tire sizes are 7.00-12 front and 6.00-9 rear. Cushion tire variants (FGC25N) use press-on sizes such as 21x7x15 front and 16x6x10.5 rear.",
+      "reliabilityRationale": "Tire specifications were cross-referenced against official Mitsubishi Forklift technical spec documentation and industrial tire fitment databases for the standard 5,000 lb base fleet class (FG25N). Reliability is rated 4 because while individual forklift model specifications are definitive, 'Forklift' refers to a broad line of industrial equipment rather than a single automotive model trim.",
+      "reliabilityScore": 4,
+      "sourceName": "Mitsubishi Logisnext / Mitsubishi Forklift Trucks",
+      "sourceUrl": "https://www.mitforklift.com"
+    }
+  },
+  {
+    "taskId": "veh_132",
+    "vehicle": {
+      "year": "2024",
+      "make": "JEEP",
+      "model": "GRAND CHEROKEE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "isStaggered": false,
+      "rearTireSize": "245/70R17"
+    },
+    "researchMetadata": {
+      "fleetEdgeCaseNotes": "The base fleet trim (Laredo) comes standard with 245/70R17 tires on 17-inch aluminum wheels in a square configuration across both 2-row and 3-row (Grand Cherokee L) models. Higher trims or appearance packages (e.g., Altitude, Limited, Overland, Summit) use 18-inch (265/60R18), 20-inch (265/50R20), or 21-inch (275/45R21) tires. Unlike the Dodge Durango, there is no dedicated Police Pursuit or Special Service Vehicle (SSV) package for the 2024 Grand Cherokee.",
+      "reliabilityRationale": "Specifications confirmed directly via official Stellantis Fleet ordering guides and product specs for the 2024 Jeep Grand Cherokee Laredo trim.",
+      "reliabilityScore": 5,
+      "sourceName": "Stellantis Fleet",
+      "sourceUrl": "https://www.stellantisfleet.com"
+    }
+  },
+  {
+    "taskId": "veh_133",
+    "vehicle": {
+      "year": "2025",
+      "make": "ISUZU",
+      "model": "NRR"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Isuzu Commercial Truck N-Series specifications",
+      "sourceUrl": "https://isuzucv.com/nseries/nseries_ev_specifications",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Isuzu's N-Series specification lists 225/70R19.5 tubeless steel-belted radial tires; this is consistent with the NRR platform.",
+      "fleetEdgeCaseNotes": "Confirm the specific NRR powertrain and body upfit. Use the chassis tire placard if an upfitter changed the wheel or axle package."
+    }
+  },
+  {
+    "taskId": "veh_134",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "MUSTANG MACH-E"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/55R19",
+      "rearTireSize": "225/55R19",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2026 Ford Mustang Mach-E Order Guide",
+      "sourceUrl": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/order-guides/2026_Ford_Mustang_Mach-E_Order_Guide.pdf",
+      "reliabilityScore": 5,
+      "reliabilityRationale": "Ford lists 225/55R19 all-season tires as standard equipment on the 2026 Mustang Mach-E Select base trim.",
+      "fleetEdgeCaseNotes": "Premium, GT, Rally, and appearance packages can use different sizes. Verify trim before applying this base Select fitment."
+    }
+  },
+  {
+    "taskId": "veh_135",
+    "vehicle": {
+      "year": "2017",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "215/50R17",
+      "rearTireSize": "215/50R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2017 Chevrolet Volt Owner's Manual",
+      "sourceUrl": "https://www.chevrolet.com/ownercenter/content/dam/gmownercenter/gmna/dynamic/manuals/2017/Chevrolet/Volt/2k17volt1stPrint.pdf",
+      "reliabilityScore": 5,
+      "reliabilityRationale": "The Chevrolet owner manual identifies 215/50R17 as the vehicle's low-profile original-equipment tire size.",
+      "fleetEdgeCaseNotes": "Square fitment. Confirm the tire placard if nonstandard wheels were installed."
+    }
+  },
+  {
+    "taskId": "veh_136",
+    "vehicle": {
+      "year": "2015",
+      "make": "MACK",
+      "model": "GAPVAX"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "rearTireSize": "11R22.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "GapVax MC Series product information",
+      "sourceUrl": "https://www.gapvax.com/products/mc/",
+      "reliabilityScore": 1,
+      "reliabilityRationale": "11R22.5 is a common vocational Mack chassis fitment, but GapVax bodies can be installed on multiple customer-selected chassis and axles.",
+      "fleetEdgeCaseNotes": "Verify the Mack door/chassis placard and every axle position. The GapVax upfit name does not establish tire size."
+    }
+  },
+  {
+    "taskId": "veh_137",
+    "vehicle": {
+      "year": "2019",
+      "make": "FORD",
+      "model": "RANGER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "255/65R17",
+      "rearTireSize": "255/65R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2019 Ford Ranger Brochure",
+      "sourceUrl": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/resources/general/pdf/brochures/19_Ranger_Accessiblity_lite.pdf",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Ford lists 255/65R17 as the standard 17-inch all-season or all-terrain size for mainstream 2019 Ranger configurations.",
+      "fleetEdgeCaseNotes": "FX4 and other packages may use LT265/65R17. Verify drivetrain and door placard."
+    }
+  },
+  {
+    "taskId": "veh_138",
+    "vehicle": {
+      "year": "2015",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty wheel and tire specifications",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/super-duty/2025/models/f350-xlt/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "LT245/75R17 is Ford's longstanding base F-350 XL/SRW and DRW 17-inch fitment; the fleet record omits rear-wheel configuration.",
+      "fleetEdgeCaseNotes": "Verify SRW versus DRW, trim, and door placard; optional 18- and 20-inch packages differ."
+    }
+  },
+  {
+    "taskId": "veh_139",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-350 CREW 4X4"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2020 Ford Super Duty product information",
+      "sourceUrl": "https://media.ford.com/content/dam/fordmedia/North%20America/US/product/2020/f-series-super-duty/2020-Super-Duty-Whats-New.pdf",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "Base Super Duty XL 17-inch fitment is LT245/75R17; crew cab and 4x4 alone do not identify the optional wheel package.",
+      "fleetEdgeCaseNotes": "Verify SRW/DRW and door placard. Many 4x4 configurations use optional LT275-series 18-inch tires."
+    }
+  },
+  {
+    "taskId": "veh_140",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-SERIES WORK TRUCK"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford 2017 Super Duty information",
+      "sourceUrl": "https://media.ford.com/content/fordmedia/fna/mx/es/news/2016/09/05/mas-fuertes--capaces-e-innovadores-que-nunca--asi-son-los-nuevos.html",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "Ford lists 245/75R17 for 2017 Super Duty, but 'F-Series work truck' does not identify F-250/F-350/F-450/F-550.",
+      "fleetEdgeCaseNotes": "Identify the exact series and axle package from VIN/placard before use; F-450/F-550 commonly use 225/70R19.5."
+    }
+  },
+  {
+    "taskId": "veh_141",
+    "vehicle": {
+      "year": "2018",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2018 Ford Super Duty Chassis Cab guide",
+      "sourceUrl": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/resources/general/pdf/guides/18RV%26TT_Ford_SuperDtyCC_Nov27.pdf",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Ford F-550 chassis cabs use 19.5-inch DRW wheels and the standard 225/70R19.5 commercial tire family.",
+      "fleetEdgeCaseNotes": "Dual rear wheels use the same nominal size at all positions. Confirm load range and any upfitter wheel changes."
+    }
+  },
+  {
+    "taskId": "veh_142",
+    "vehicle": {
+      "year": "1990",
+      "make": "GMC",
+      "model": "TRK 30000"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "rearTireSize": "11R22.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "GM Heritage vehicle archive",
+      "sourceUrl": "https://www.gm.com/heritage/archive",
+      "reliabilityScore": 1,
+      "reliabilityRationale": "11R22.5 is a common 30,000-lb-class GMC medium/heavy truck fitment, but the fleet description is not a precise model designation.",
+      "fleetEdgeCaseNotes": "Verify VIN, axle rating, wheel diameter, and installed sidewalls. Older GMC vocational trucks may use 10.00R20 or another legacy size."
+    }
+  },
+  {
+    "taskId": "veh_143",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-150 SUPERCAB"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "rearTireSize": "245/70R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford F-150 Technical Specifications",
+      "sourceUrl": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/trucks/f150/2020/Mediakit/CHUB01149_21F150_Tech_Specs_R15.pdf",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "Ford's base F-150 technical specification lists 245/70R17 all-season tires; SuperCab does not itself determine the wheel package.",
+      "fleetEdgeCaseNotes": "A 4x4 XL/XLT or optional package may use 265/70R17 or another size. Verify drivetrain and tire placard."
+    }
+  },
+  {
+    "taskId": "veh_144",
+    "vehicle": {
+      "year": "2020",
+      "make": "FORD",
+      "model": "F-450 LIFT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty Chassis Cab specifications",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/chassis-cab/2025/models/f550-xlt/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "F-450 chassis-cab vocational upfits normally use 19.5-inch DRW wheels with 225/70R19.5 tires.",
+      "fleetEdgeCaseNotes": "The lift upfit may change GVWR or wheels. Verify the 2020 placard and load range."
+    }
+  },
+  {
+    "taskId": "veh_145",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "VAN 15 PASS"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT225/75R16",
+      "rearTireSize": "LT225/75R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "A 2014 15-passenger Ford van is most likely an E-350 wagon using LT225/75R16; the fleet label does not name E-Series versus Transit.",
+      "fleetEdgeCaseNotes": "Confirm model/VIN and door placard. Transit-based passenger vans can use a different 16-inch commercial size."
+    }
+  },
+  {
+    "taskId": "veh_146",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "E-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT225/75R16",
+      "rearTireSize": "LT225/75R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "LT225/75R16 is the standard E-350 van/cutaway fitment for this generation.",
+      "fleetEdgeCaseNotes": "Verify single versus dual rear wheel and load range; some cutaway configurations differ."
+    }
+  },
+  {
+    "taskId": "veh_147",
+    "vehicle": {
+      "year": "2024",
+      "make": "JOHN DEERE",
+      "model": "GATOR HPX"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "24x9.5-10",
+      "rearTireSize": "24x10.5-10",
+      "isStaggered": true
+    },
+    "researchMetadata": {
+      "sourceName": "John Deere HPX615E Commercial OEM Parts Guide",
+      "sourceUrl": "https://www.deere.com/assets/pdfs/common/parts-and-service/manuals-training/gator-HPX615E-green-yellow.pdf",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "John Deere lists 24x9.5-10 front and 24x10.5-10 rear all-purpose tires for the HPX615E.",
+      "fleetEdgeCaseNotes": "Aggressive and turf packages use a wider 24x12-10 rear tire. Verify tread package and exact HPX model."
+    }
+  },
+  {
+    "taskId": "veh_148",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "TRANSIT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "195/75R16C",
+      "rearTireSize": "195/75R16C",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2025 Ford Transit Cargo Van specifications",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/transit-cargo-van/2025/models/transit-van/",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Ford lists 195/75R16C as standard for RWD Transit configurations with the standard front axle.",
+      "fleetEdgeCaseNotes": "AWD, heavy-duty front axle, SRW/DRW, and higher-GVWR configurations use 205/75R16C or 235/65R16. Verify configuration."
+    }
+  },
+  {
+    "taskId": "veh_149",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford 2017 Super Duty information",
+      "sourceUrl": "https://media.ford.com/content/fordmedia/fna/mx/es/news/2016/09/05/mas-fuertes--capaces-e-innovadores-que-nunca--asi-son-los-nuevos.html",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Ford identifies 225/70R19-class tires for F-450/F-550 chassis-cab applications.",
+      "fleetEdgeCaseNotes": "Flatbed is an upfit; confirm load range and placard."
+    }
+  },
+  {
+    "taskId": "veh_150",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "F-450"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty chassis-cab tire reference",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "225/70R19.5 is the standard F-450 chassis-cab/DRW commercial fitment for this generation.",
+      "fleetEdgeCaseNotes": "An F-450 pickup can have a different package; verify body type and placard."
+    }
+  },
+  {
+    "taskId": "veh_151",
+    "vehicle": {
+      "year": "2014",
+      "make": "FORD",
+      "model": "F-450 FLAT BED"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty chassis-cab tire reference",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "The F-450 flatbed is normally a chassis cab with 225/70R19.5 tires on 19.5-inch DRW wheels.",
+      "fleetEdgeCaseNotes": "Verify load range and upfit certification label."
+    }
+  },
+  {
+    "taskId": "veh_152",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-750"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "rearTireSize": "11R22.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford F-650/F-750 commercial truck specifications",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/f650-f750/2026/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "11R22.5 is the standard common highway tire family for conventional F-750 configurations, but Ford offers several axle/wheel packages.",
+      "fleetEdgeCaseNotes": "Verify the 2025 order label, axle ratings, and installed tires; low-profile 22.5-inch alternatives are available."
+    }
+  },
+  {
+    "taskId": "veh_153",
+    "vehicle": {
+      "year": "2005",
+      "make": "FORD",
+      "model": "450 FLAT BED"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford tire-label guidance",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "A 2005 F-450 flatbed chassis commonly uses 225/70R19.5, but historical wheel packages varied.",
+      "fleetEdgeCaseNotes": "Verify the certification/tire label and installed wheel diameter before use."
+    }
+  },
+  {
+    "taskId": "veh_154",
+    "vehicle": {
+      "year": "2017",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford 2017 Super Duty information",
+      "sourceUrl": "https://media.ford.com/content/fordmedia/fna/mx/es/news/2016/09/05/mas-fuertes--capaces-e-innovadores-que-nunca--asi-son-los-nuevos.html",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "Ford lists the 225/70R19 commercial fitment for 2017 F-450/F-550 chassis models.",
+      "fleetEdgeCaseNotes": "Confirm load range and any upfit changes."
+    }
+  },
+  {
+    "taskId": "veh_155",
+    "vehicle": {
+      "year": "2023",
+      "make": "FORD",
+      "model": "F-150"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "245/70R17",
+      "rearTireSize": "245/70R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford F-150 base tire specification",
+      "sourceUrl": "https://www.ford.com/trucks/f150/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "Ford identifies 245/70R17 as the base 17-inch F-150 all-season fitment; the fleet record does not identify trim or drivetrain.",
+      "fleetEdgeCaseNotes": "4x4, payload, off-road, and appearance packages use different sizes. Verify the 2023 truck's door placard."
+    }
+  },
+  {
+    "taskId": "veh_156",
+    "vehicle": {
+      "year": "2010",
+      "make": "KENWORTH",
+      "model": "T-800"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "rearTireSize": "11R22.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Kenworth T800 product information",
+      "sourceUrl": "https://www.kenworth.com/trucks/t800/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "11R22.5 is a common T800 highway/vocational fitment, but Kenworth builds each T800 to an ordered axle and wheel specification.",
+      "fleetEdgeCaseNotes": "Verify build sheet and every axle. Steer, drive, lift, and vocational packages may use different sizes, including 12R22.5 or flotation tires."
+    }
+  },
+  {
+    "taskId": "veh_157",
+    "vehicle": {
+      "year": "2026",
+      "make": "FORD",
+      "model": "F-650"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "11R22.5",
+      "rearTireSize": "11R22.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2026 Ford F-650/F-750 commercial truck information",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/f650-f750/2026/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "11R22.5 is the common base F-650 conventional medium-duty fitment; multiple wheel and axle options exist.",
+      "fleetEdgeCaseNotes": "Verify order/build label and installed tire size before ordering."
+    }
+  },
+  {
+    "taskId": "veh_158",
+    "vehicle": {
+      "year": "2025",
+      "make": "FORD",
+      "model": "F-600 ASPHALT P"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2025 Ford Super Duty Chassis Cab information",
+      "sourceUrl": "https://www.ford.com/commercial-trucks/chassis-cab/2025/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "F-600 chassis cabs use 19.5-inch DRW commercial tires; 225/70R19.5 is the base fitment family.",
+      "fleetEdgeCaseNotes": "The asphalt upfit and GVWR package may specify 245/70R19.5. Verify placard and upfitter label."
+    }
+  },
+  {
+    "taskId": "veh_159",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "F-550"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford tire-label guidance",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "225/70R19.5 is the common F-550 chassis-cab tire for this period, but exact historical configuration is not identified.",
+      "fleetEdgeCaseNotes": "Verify the chassis certification label and installed sidewalls."
+    }
+  },
+  {
+    "taskId": "veh_160",
+    "vehicle": {
+      "year": "2012",
+      "make": "FORD",
+      "model": "F-350 DUMP"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty tire reference",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "LT245/75R17 is the common base F-350 17-inch fitment, including DRW configurations used for dump upfits.",
+      "fleetEdgeCaseNotes": "Confirm SRW/DRW, load range, and upfitter label."
+    }
+  },
+  {
+    "taskId": "veh_161",
+    "vehicle": {
+      "year": "2022",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty specifications",
+      "sourceUrl": "https://media.ford.com/content/dam/fordmedia/North%20America/CA/2022/01/2023%20Super%20Duty%20Specs%20FINAL%20CDN.pdf",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "Ford's Super Duty specification lists LT245/75R17 as the base F-350 XL/SRW and DRW tire family.",
+      "fleetEdgeCaseNotes": "Model-year-adjacent reference; verify 2022 trim, SRW/DRW, and placard. XLT and option packages often use 18-inch tires."
+    }
+  },
+  {
+    "taskId": "veh_162",
+    "vehicle": {
+      "year": "2016",
+      "make": "FORD",
+      "model": "F-550 BUCKET"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "225/70R19.5",
+      "rearTireSize": "225/70R19.5",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty chassis-cab tire reference",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "F-550 bucket-truck chassis normally use 225/70R19.5 on 19.5-inch DRW wheels.",
+      "fleetEdgeCaseNotes": "Verify upfitter certification, axle ratings, and load range."
+    }
+  },
+  {
+    "taskId": "veh_163",
+    "vehicle": {
+      "year": "2021",
+      "make": "CHEVY",
+      "model": "SILVERADO"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "255/70R17",
+      "rearTireSize": "255/70R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2021 Chevrolet Silverado 1500 Owner's Manual",
+      "sourceUrl": "https://www.chevrolet.com/ownercenter/content/dam/gmownercenter/gmna/dynamic/manuals/2021/chevrolet/silverado-1500/2021-chevrolet-silverado-1500-owners-manual.pdf",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "255/70R17 is the standard base Work Truck 17-inch fitment; the owner manual is the primary model-year reference but the fleet record omits series and trim.",
+      "fleetEdgeCaseNotes": "Silverado 1500, 2500HD, 3500HD, 4x4, and option packages differ. Verify series, trim, and tire placard."
+    }
+  },
+  {
+    "taskId": "veh_164",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "E-250"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT225/75R16",
+      "rearTireSize": "LT225/75R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "LT225/75R16 is the standard E-250 commercial van fitment for this generation.",
+      "fleetEdgeCaseNotes": "Confirm load range and door placard."
+    }
+  },
+  {
+    "taskId": "veh_165",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X4"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT275/70R18",
+      "rearTireSize": "LT275/70R18",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty tire-label guidance",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "LT275/70R18 is a common 2008 F-350 4x4 SRW fitment, but trim and rear-wheel configuration are missing.",
+      "fleetEdgeCaseNotes": "DRW/base XL may use LT245/75R17. Treat the door placard as authoritative."
+    }
+  },
+  {
+    "taskId": "veh_166",
+    "vehicle": {
+      "year": "2008",
+      "make": "FORD",
+      "model": "F-350 4X2"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT245/75R17",
+      "rearTireSize": "LT245/75R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford Super Duty tire-label guidance",
+      "sourceUrl": "https://www.ford.com/support/how-tos/tires-and-wheels/tire-replacement-and-maintenance/what-is-the-tire-size-for-my-vehicle/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "LT245/75R17 is the common base 2008 F-350 4x2 fitment; exact trim and SRW/DRW are unknown.",
+      "fleetEdgeCaseNotes": "Verify door placard and rear-wheel configuration."
+    }
+  },
+  {
+    "taskId": "veh_167",
+    "vehicle": {
+      "year": "2003",
+      "make": "FORD",
+      "model": "F-350"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "LT265/75R16",
+      "rearTireSize": "LT265/75R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford historical owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "LT265/75R16 is a common 2003 F-350 SRW fitment; configuration is not specified.",
+      "fleetEdgeCaseNotes": "DRW and some 4x2 trucks use LT215/85R16 or another size. Verify placard."
+    }
+  },
+  {
+    "taskId": "veh_168",
+    "vehicle": {
+      "year": "2006",
+      "make": "FORD",
+      "model": "FREESTAR"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P225/60R16",
+      "rearTireSize": "P225/60R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford historical owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "P225/60R16 is the base 2006 Freestar tire fitment.",
+      "fleetEdgeCaseNotes": "Limited and optional wheel packages may use 17-inch tires. Verify placard."
+    }
+  },
+  {
+    "taskId": "veh_169",
+    "vehicle": {
+      "year": "2024",
+      "make": "HYDRO TEK",
+      "model": "3900 SPRAYER"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "rearTireSize": "ST205/75R15",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Hydro Tek product support",
+      "sourceUrl": "https://hydrotek.us/",
+      "reliabilityScore": 1,
+      "reliabilityRationale": "ST205/75R15 is a common single/dual-axle pressure-washer trailer fitment, but no official 3900 model tire specification was located.",
+      "fleetEdgeCaseNotes": "Do not order from this estimate. Read the trailer VIN/certification plate, axle count, GVWR, installed tire size, and load range."
+    }
+  },
+  {
+    "taskId": "veh_170",
+    "vehicle": {
+      "year": "2002",
+      "make": "FORD",
+      "model": "F-150 SUPERCREW"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P255/70R16",
+      "rearTireSize": "P255/70R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Ford historical owner-manual support",
+      "sourceUrl": "https://www.ford.com/support/how-tos/owner-resources/vehicle-documents/where-can-i-get-an-owners-manual/",
+      "reliabilityScore": 2,
+      "reliabilityRationale": "P255/70R16 is a common base 2002 F-150 SuperCrew fitment; trim and drivetrain are unspecified.",
+      "fleetEdgeCaseNotes": "4x4 and optional wheel packages may use another size. Verify the door placard."
+    }
+  },
+  {
+    "taskId": "veh_171",
+    "vehicle": {
+      "year": "2023",
+      "make": "BIG TEX",
+      "model": "30SV10"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "ST205/75R15",
+      "rearTireSize": "ST205/75R15",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Big Tex 30SV Specifications",
+      "sourceUrl": "https://www.bigtextrailers.com/trailer/30sv/",
+      "reliabilityScore": 5,
+      "reliabilityRationale": "Big Tex lists ST205/75R15 Load Range C as the 30SV tire/spare specification.",
+      "fleetEdgeCaseNotes": "Single-axle trailer; both road positions use the same size. Verify load range on the installed tire."
+    }
+  },
+  {
+    "taskId": "veh_172",
+    "vehicle": {
+      "year": "2018",
+      "make": "CHEVY",
+      "model": "VOLT"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "215/50R17",
+      "rearTireSize": "215/50R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2018 Chevrolet Volt Owner Information",
+      "sourceUrl": "https://www.chevrolet.com/ownercenter/content/dam/gmownercenter/gmna/dynamic/manuals/2018/Chevrolet/Volt/GTK_2018_Chevrolet_Volt.pdf",
+      "reliabilityScore": 4,
+      "reliabilityRationale": "The second-generation Volt uses the same 215/50R17 original-equipment fitment documented by GM for this model family.",
+      "fleetEdgeCaseNotes": "Square fitment. Verify the placard because the quick guide is less explicit than the full owner manual."
+    }
+  },
+  {
+    "taskId": "veh_173",
+    "vehicle": {
+      "year": "2012",
+      "make": "NISSAN",
+      "model": "LEAF"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "205/55R16",
+      "rearTireSize": "205/55R16",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2012 Nissan LEAF Owner's Manual",
+      "sourceUrl": "https://owners.nissanusa.com/content/techpub/ManualsAndGuides/LEAF/2012/2012-LEAF-owner-manual.pdf",
+      "reliabilityScore": 5,
+      "reliabilityRationale": "Nissan's model-year owner manual specifies the standard 16-inch LEAF wheel-and-tire configuration.",
+      "fleetEdgeCaseNotes": "SL or optional 17-inch wheel packages may differ. Verify trim and placard."
+    }
+  },
+  {
+    "taskId": "veh_174",
+    "vehicle": {
+      "year": "2012",
+      "make": "CHEVROLET",
+      "model": "TAHOE"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P265/70R17",
+      "rearTireSize": "P265/70R17",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "2012 Chevrolet Tahoe Owner's Manual",
+      "sourceUrl": "https://www.chevrolet.com/ownercenter/content/dam/gmownercenter/gmna/dynamic/manuals/2012/chevrolet/tahoe/2012_chevrolet_tahoe_owners.pdf",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "P265/70R17 is the base Tahoe 17-inch original-equipment fitment; the manual directs final sizing to the vehicle placard.",
+      "fleetEdgeCaseNotes": "LTZ and optional 20-inch wheel packages differ. Verify trim and the driver's-door tire label."
+    }
+  },
+  {
+    "taskId": "veh_175",
+    "vehicle": {
+      "year": "2002",
+      "make": "TOYOTA",
+      "model": "PRIUS"
+    },
+    "matchedAssetCount": 1,
+    "tireData": {
+      "frontTireSize": "P175/65R14",
+      "rearTireSize": "P175/65R14",
+      "isStaggered": false
+    },
+    "researchMetadata": {
+      "sourceName": "Toyota owner-manual publication archive",
+      "sourceUrl": "https://www.toyota.com/owners/warranty-owners-manuals/",
+      "reliabilityScore": 3,
+      "reliabilityRationale": "P175/65R14 is the standard first-generation U.S. Prius fitment; the accessible Toyota archive did not expose the exact 2002 manual page in search.",
+      "fleetEdgeCaseNotes": "Verify the 2002 Prius tire placard before ordering because this result relies on the model-generation specification rather than a directly extracted model-year page."
+    }
+  }
+]
