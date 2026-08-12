@@ -86,7 +86,7 @@ _Avoid_: Vehicle ID, serial number
 
 **Work Order**:
 A maintenance or repair record associated with a Vehicle and containing one or
-more work-order lines.
+more work-order lines. It is the authoritative record of corrective work.
 _Avoid_: Work-order line, purchase order
 
 **Work-order line**:
@@ -102,3 +102,95 @@ _Avoid_: Part posting, purchase-order line
 A procurement record connecting a vendor and facility to ordered lines and
 receipts.
 _Avoid_: Work order, purchase-order line
+
+## Asset identity and tire fitment
+
+**Fleet asset**:
+A physical vehicle, trailer, or equipment unit tracked by the fleet. A Fleet
+asset may lack a current or unique matching Vehicle record in RTA.
+_Avoid_: Vehicle, vehicle record
+
+**Asset number**:
+The fleet's business-facing identifier for a Fleet asset and the primary key
+for cross-referencing fleet inventory records.
+_Avoid_: Vehicle resource ID, VIN, serial number
+
+**Asset identity**:
+The identifying facts for a Fleet asset: Asset number, year, make, model, and
+VIN where one exists. Tire research does not override Asset identity.
+_Avoid_: Tire-research description, asset-number match alone
+
+**VIN**:
+The manufacturer-issued vehicle identification number, represented by RTA in
+the `serialNumber` field. Some Fleet assets have no standard VIN.
+_Avoid_: Vehicle number, Vehicle resource ID, tenant serial number
+
+**Researched tire fitment**:
+An evidence-backed front and rear tire-size result associated with a stated
+year, make, and model. It is not proof of the tires installed on a specific
+Fleet asset.
+_Avoid_: Asset identity, unit-confirmed tire fitment
+
+**Unit-confirmed tire fitment**:
+The front and rear tire sizes verified for the specific Fleet asset from the
+unit, its placard, or unit-specific documentation.
+_Avoid_: Researched tire fitment, generic model fitment
+
+**Approved fitment with warning**:
+A Researched tire fitment accepted for operational use even though the Fleet
+asset's identity evidence is incomplete or differs from the research identity.
+_Avoid_: Unit-confirmed fitment, unresolved fitment
+
+**Unresolved fitment**:
+A Fleet asset for which available identity and research evidence do not support
+a tire-size assignment. Its tire-size fields remain blank pending confirmation.
+_Avoid_: Approved fitment with warning, missing Fleet asset
+
+## Inspection records
+
+**Driver Inspection**:
+A completed operator checklist in Fleet360, called Paperless Driver Inspection
+in some RTA documentation. It is the authoritative weekly checklist record.
+_Avoid_: Driver Report, RTA Inspect, Mechanic Vehicle Inspection
+
+**Driver Report**:
+The Fleet360 record used by shop staff to review and route a defect reported
+through a Driver Inspection. It is not the completed inspection checklist.
+_Avoid_: Driver Inspection, Work Order
+
+**Mechanic Vehicle Inspection**:
+A template-based shop inspection completed by an authorized technician and
+associated with a work-order line. It is the authoritative mechanic and DOT
+inspection record.
+_Avoid_: Driver Inspection, Work Order, Tire Inspection, Brake Inspection
+
+**Tire Inspection**:
+The authoritative record of tire-condition measurements by axle and wheel
+position.
+_Avoid_: Mechanic Vehicle Inspection, Brake Inspection
+
+**Brake Inspection**:
+The authoritative record of brake-condition measurements for a Vehicle.
+_Avoid_: Mechanic Vehicle Inspection, Tire Inspection
+
+**Inspection template**:
+A reusable, versioned definition of the sections, items, prompts, and defects
+used to perform an inspection. It is assigned by vehicle class or equipment
+configuration and is not a completed inspection.
+_Avoid_: Inspection record, work-order template
+
+**Inspection verification**:
+A separate post-repair inspection that confirms whether a failed condition was
+corrected. It is associated with the original finding through the corrective
+Work Order and does not replace the original inspection.
+_Avoid_: Inspection edit, work-order closure
+
+**Critical inspection finding**:
+An inspection result that makes a Vehicle unavailable until corrective work and
+Inspection verification are complete.
+_Avoid_: Warning condition, deferred maintenance
+
+**RTA Inspect**:
+A separately licensed mobile inspection product that can retain completed
+inspections and send failed items into Fleet360.
+_Avoid_: Driver Inspection, Driver Report, RTA Mobile Paperless Shop

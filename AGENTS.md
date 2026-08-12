@@ -54,6 +54,7 @@ develops rules that do not apply to the rest of this workspace.
 
 ## Working Agreements
 
+- Git Remote Protocol: Ensure Git remotes use SSH (`git@github.com:...`). Follow [GitHub Auth Runbook](file://~/.agents/skills/references/github-authentication-macos.md).
 - Distinguish the tenant-scoped Momentum REST API from the raw Data Extract
   API. Do not mix their hosts, versioning, permissions, or pagination models.
 - Treat `tenantId`, `facilityId`, resource IDs, client ID, and API token as
@@ -72,6 +73,26 @@ develops rules that do not apply to the rest of this workspace.
   external integrations. Verify the current contract.
 - Keep observed runtime behavior separate from inferred behavior and from
   claims made only by the guide or OpenAPI document.
+- RTA vehicle numbers in the live database may store spaces before suffix
+  letters (e.g. '318 S') and leading-zero variations (e.g. '33' vs '033').
+  Normalize whitespace, letter case, and numeric zero-padding during vehicle
+  matching and cross-referencing operations to ensure exact alignment.
+
+## Concurrent Agent Coordination
+
+Assume concurrent agents. Before starting, read the GitHub issue and comments;
+work only the unblocked frontier after each blocker is closed with its boxes
+checked and completion comment present.
+
+- Use separate worktrees or exclusive file/output ownership. Check `git status`
+  before edits and handoff; preserve unfamiliar changes and avoid broad cleanup,
+  reset, or catch-all staging.
+- Shared OneDrive workbooks and final outputs are single-writer. Use distinct
+  staging names, require clear Excel locks, recheck source fingerprints before
+  writing, and fail on an existing output unless replacement is authorized.
+- To release downstream work, check the issue's verified criteria, add its
+  sanitized evidence comment, then close it. Local work alone does not unblock
+  the next issue.
 
 ## Credentials and Live-Data Safety
 
